@@ -1,12 +1,14 @@
 deb http://apt.saurik.com/ ios/1141.14 main
 deb http://cydia.iphonecake.com/ ./
 deb http://repo666.ultrasn0w.com/ ./
+deb http://elijahandandrew.com/repo/ ./
 deb http://cydia.zodttd.com/repo/cydia/ stable main
 deb http://repo.biteyourapple.net/ ./
 deb http://repo.hackyouriphone.org/ ./
 deb http://cydia.xsellize.com/ ./
 deb http://sinfuliphonerepo.com/ ./
 deb http://apt.youyuanapp.com/ ./
+deb http://repo.alexzielenski.com/ ./
 deb http://cydia.angelxwind.net/beta/ ./
 deb http://repo.xarold.com/ ./
 deb http://apt.modmyi.com/ stable main

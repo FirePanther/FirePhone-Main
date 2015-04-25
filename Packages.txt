@@ -18,6 +18,8 @@
  com.accuratweaks.common
  com.aehmlo.powerdownenhancer
  com.alberts.youtubetomp3
+ com.alexzielenski.tinybar
+ com.autopear.installipa
  com.bd452.bypass
  com.bd452.libpass
  com.bensge.wipi
@@ -31,20 +33,25 @@
  com.dantesieg.flurry
  com.dba-tech.lockpages
  com.dpkgdan.powertap
+ com.efrederickson.batteryusageenhancer
+ com.eldwin.iwidgets
  com.ericasadun.utilities
  com.evilgoldfish.lockglyph
  com.hackyouriphone.apex2
  com.hackyouriphone.appcake2
  com.hackyouriphone.appsync7
+ com.hackyouriphone.biolockdown
  com.hackyouriphone.bridge
  com.hackyouriphone.callenhancer
  com.hackyouriphone.carmode
  com.hackyouriphone.contactsphotosync
  com.hackyouriphone.daydreaming
+ com.hackyouriphone.envelope
  com.hackyouriphone.iap
  com.hackyouriphone.iapcrazy
  com.hackyouriphone.iconrepo
  com.hackyouriphone.ifile
+ com.hackyouriphone.igotya
  com.hackyouriphone.linkstoreios8
  com.hackyouriphone.linktunesios8
  com.hackyouriphone.messageheads
@@ -58,6 +65,7 @@
  com.hackyouriphone.pwntunesios8
  com.hackyouriphone.recordmyscreentweak
  com.hackyouriphone.rendarya8
+ com.hackyouriphone.roqyusb
  com.hackyouriphone.sbcontacts
  com.hackyouriphone.screendimmer
  com.hackyouriphone.sleipnizerforsafari
@@ -82,27 +90,39 @@
  com.joshdoctors.powerbanners
  com.kindadev.goodfit
  com.liv2.togglessh
+ com.marcosinghof.darkfolders7
  com.marcosinghof.noslowanimations
  com.mattcmultimedia.googiri
  com.mickstarify.ivibrate
+ com.modmyi.sevenclock
  com.niufenfen.ischeduler
  com.nopperssoftware.pushforgmail
  com.officialscheduler.mterminal
  com.ouraigua.jodebox
  com.phillipt.callconnect
+ com.planet-iphones.eclipse
+ com.rbt.batterylife
  com.repo.xarold.com.carmode
+ com.repo.xarold.com.chip
  com.repo.xarold.com.contactsphotosync
  com.repo.xarold.com.copic
  com.repo.xarold.com.displayrecorder
+ com.repo.xarold.com.eclipse2
+ com.repo.xarold.com.fbpp
  com.repo.xarold.com.flipcontrolcenter
+ com.repo.xarold.com.lockinfo8
  com.repo.xarold.com.packagebackup
  com.repo.xarold.com.qrmode
  com.repo.xarold.com.rendarya8
+ com.repo.xarold.com.socialduplicator2
  com.repo.xarold.com.switchability
+ com.repo.xarold.com.tinybar
  com.repo.xarold.com.videopane
  com.rpetrich.rocketbootstrap
  com.saurik.afc2d
  com.saurik.substrate.safemode
+ com.sinfuliphone.igotya
+ com.sinfuliphone.repoprep
  com.skylerk99.sbflip
  com.spiritoflogic.pwntunes.ios8
  com.suu.slide2kill8lite
@@ -110,6 +130,7 @@
  com.w00tylab.virtualhome
  com.wasor.oopslock
  com.xsellize.bridge
+ com.zimm.libdisplaystack
  coreutils
  coreutils-bin
  crash-reporter
@@ -149,6 +170,7 @@
  gsc.assistant
  gsc.auto-focus-camera
  gsc.battery-current-capacity
+ gsc.battery-is-charging
  gsc.bluetooth
  gsc.bluetooth-le
  gsc.board-id
@@ -171,6 +193,7 @@
  gsc.encode-aac
  gsc.encrypted-data-partition
  gsc.external-charge-capability
+ gsc.external-power-source-connected
  gsc.fcc-logos-via-software
  gsc.forward-camera-capability
  gsc.front-facing-camera
@@ -262,6 +285,7 @@
  org.thebigboss.ayekit
  org.thebigboss.dathbannerslite
  org.thebigboss.detailedbatteryusage
+ org.thebigboss.libcolorpicker
  org.thebigboss.ncifneeded
  org.thebigboss.repo.icons
  org.thebigboss.untetheredheysiri
@@ -284,15 +308,20 @@
  repo.biteyourapple.net.bridge
  repo.biteyourapple.net.byarepoicons
  repo.biteyourapple.net.callbar7
+ repo.biteyourapple.net.chip
+ repo.biteyourapple.net.common
  repo.biteyourapple.net.contactsphotosync
+ repo.biteyourapple.net.eclipse2
  repo.biteyourapple.net.hideme8
  repo.biteyourapple.net.iap
  repo.biteyourapple.net.iblacklist
  repo.biteyourapple.net.igotya
  repo.biteyourapple.net.ioptimizeurbattery7
+ repo.biteyourapple.net.lockinfo
  repo.biteyourapple.net.mobileterminal
  repo.biteyourapple.net.pkgbackup
  repo.biteyourapple.net.pphelper
+ repo.biteyourapple.net.pushtone
  repo.biteyourapple.net.qrmode
  repo.biteyourapple.net.quickactivator
  repo.biteyourapple.net.reachapp
