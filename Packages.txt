@@ -118,6 +118,7 @@
  com.repo.xarold.com.switchability
  com.repo.xarold.com.tinybar
  com.repo.xarold.com.videopane
+ com.rpetrich.browserchooser
  com.rpetrich.rocketbootstrap
  com.saurik.afc2d
  com.saurik.substrate.safemode
@@ -262,6 +263,7 @@
  jp.ashikase.libpackageinfo
  jp.ashikase.libsymbolicate
  jp.ashikase.techsupport
+ jp.tom-go.openopera
  kr.iolate.terminalactivator
  libactivator
  libhide
