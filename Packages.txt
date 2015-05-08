@@ -47,6 +47,7 @@
  com.hackyouriphone.contactsphotosync
  com.hackyouriphone.daydreaming
  com.hackyouriphone.envelope
+ com.hackyouriphone.fulldrop
  com.hackyouriphone.iap
  com.hackyouriphone.iapcrazy
  com.hackyouriphone.iconrepo
@@ -130,6 +131,7 @@
  com.thomasfinch.priorityhub
  com.w00tylab.virtualhome
  com.wasor.oopslock
+ com.wesley6j.favboxlite
  com.xsellize.bridge
  com.zimm.libdisplaystack
  coreutils
