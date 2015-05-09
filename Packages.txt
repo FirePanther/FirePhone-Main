@@ -30,6 +30,7 @@
  com.chpwn.iconsupport
  com.conradkramer.open
  com.cpdigitaldarkroom.taptapflip
+ com.cpdigitaldarkroom.volumebanner
  com.dantesieg.flurry
  com.dba-tech.lockpages
  com.dpkgdan.powertap
@@ -75,6 +76,7 @@
  com.hackyouriphone.swipeselection-pro
  com.hackyouriphone.vestigo
  com.hackyouriphone.virtualhome8
+ com.hackyouriphone.xbackup
  com.i0sa.grabberapp8
  com.ichitaso.sshflipswitch
  com.ifonetec.cylay
@@ -134,6 +136,7 @@
  com.wesley6j.favboxlite
  com.xsellize.bridge
  com.zimm.libdisplaystack
+ com.zokunei.openbackup
  coreutils
  coreutils-bin
  crash-reporter
