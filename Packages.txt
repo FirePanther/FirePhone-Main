@@ -332,6 +332,7 @@
  repo.biteyourapple.net.reachapp
  repo.biteyourapple.net.sleeksleep
  repo.biteyourapple.net.sleipnizer
+ repo.biteyourapple.net.slide2kill8pro
  repo.biteyourapple.net.spotium
  repo.biteyourapple.net.streamenhancer
  repo.biteyourapple.net.swipeexpander
