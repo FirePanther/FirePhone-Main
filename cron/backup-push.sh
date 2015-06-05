@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /User/Documents/FireCloud/BackUp
-git push origin master
+cd /User/Documents/FireCloud
+git pull origin master && git push origin master

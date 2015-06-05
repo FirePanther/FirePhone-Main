@@ -83,7 +83,7 @@ lctl() {
 		if [ -f "/Library/LaunchDaemons/$plistfilebasename" ]; then
 			lctl unload "/Library/LaunchDaemons/$plistfilebasename"
 		fi
-		mv -f "$plistfilename" "/Library/LaunchDaemons/$plistfilebasename"
+		cp -f "$plistfilename" "/Library/LaunchDaemons/$plistfilebasename"
 		lctl load "/Library/LaunchDaemons/$plistfilebasename"
 		echo "Installed and loaded: $plistfilebasename"
 	else
@@ -101,10 +101,8 @@ _findplistlocation() {
 	fi
 }
 
-# play sound and save log
+# play sound
 { sleep .1 && play /User/Documents/FireCloud/Sync/audio/ssh-connected.aiff& disown; } 2>/dev/null
-echo "$(date)	$SSH_CLIENT" >> /User/Documents/FireCloud/logs/ssh-connections.log
-cat /User/Documents/FireCloud/logs/ssh-connections.log | tail -n 20 > /User/Documents/FireCloud/logs/ssh-connections.log
 
 # change dir aliasses
 alias cld='cd /Library/LaunchDaemons'

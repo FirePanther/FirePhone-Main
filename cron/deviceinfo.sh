@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# this script sends the battery status to the server
+
 # battery
 battery=$(sbdevice -l)
 if [ ! -f /tmp/info-battery.txt ] || [ "$(cat /tmp/info-battery.txt)" != "$battery" ]; then
