@@ -86,8 +86,10 @@ lctl() {
 		cp -f "$plistfilename" "/Library/LaunchDaemons/$plistfilebasename"
 		lctl load "/Library/LaunchDaemons/$plistfilebasename"
 		echo "Installed and loaded: $plistfilebasename"
-	else
+	elif [ -n $1 ]; then
 		cd /Library/LaunchDaemons
+	else
+		echo "unknown action: $1"
 	fi
 }
 _findplistlocation() {
