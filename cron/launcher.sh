@@ -9,7 +9,7 @@ if [ "$(date +%k)" -ge 2 ] && [ "$(date +%k)" -le 6 ]; then
 		# just to be sure, vain glory is not running :D
 		if [ -z "$(launchctl list | grep com.superevilmegacorp.vainglory)" ]; then
 			# if last run older than 14 hours
-			if [ "$(cat /User/Documents/FireCloud/cache/last-if.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
+			if [ "$(cat /tmp/last-launch.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
 				# if charging
 				if [ -n "$(ioreg -l | grep -i 'ExternalConnected\" = Yes')" ]; then
 					sblaunch -b com.google.photos
@@ -18,7 +18,7 @@ if [ "$(date +%k)" -ge 2 ] && [ "$(date +%k)" -le 6 ]; then
 					sblaunch -b com.ifttt.ifttt
 					sleep 3
 					open pro.firepanther.FireTime
-					date +%s > /User/Documents/FireCloud/cache/last-if.txt
+					date +%s > /tmp/last-launch.txt
 				fi
 			fi
 		fi
