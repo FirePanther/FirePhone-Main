@@ -9,7 +9,7 @@ if [ "$(date +%k)" -ge 2 ] && [ "$(date +%k)" -le 6 ]; then
 		# just to be sure, vain glory is not running :D
 		if [ -z "$(launchctl list | grep com.superevilmegacorp.vainglory)" ]; then
 			# if last run older than 14 hours
-			if [ "$(cat /tmp/last-launch.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
+			if [ ! -f /tmp/last-launch.txt ] || [ "$(cat /tmp/last-launch.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
 				# if charging
 				if [ -n "$(ioreg -l | grep -i 'ExternalConnected\" = Yes')" ]; then
 					sblaunch -b com.google.photos
