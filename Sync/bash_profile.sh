@@ -10,6 +10,8 @@ s                   ssh as root
 .., ...             One or two dirs up
 fcget               FireCloud get (sync)
 rlb                 Reaload bash_profile
+gpush               git push origin master
+gpull               git pull origin master
 
 - SSH -
 sshl                Load ssh daemon
