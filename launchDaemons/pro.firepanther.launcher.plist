@@ -3,7 +3,7 @@
 <plist version="1.0">
 	<dict>
 		<key>Label</key>
-		<string>pro.firepanther.if</string>
+		<string>pro.firepanther.launcher</string>
 		<key>ProgramArguments</key>
 		<array>
 			<string>/User/Documents/FireCloud/cron/launcher.sh</string>
