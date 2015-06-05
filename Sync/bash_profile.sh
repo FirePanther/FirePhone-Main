@@ -98,11 +98,17 @@ lctl() {
 	fi
 }
 _findplistlocation() {
+	# search in current folder
 	if [ -f "$1" ]; then echo "$1"
-	elif [ -f "/Library/LaunchDaemons/$1" ]; then echo "/Library/LaunchDaemons/$1"
 	elif [ -f "$1.plist" ]; then echo "$1.plist"
-	elif [ -f "/Library/LaunchDaemons/$1.plist" ]; then echo "/Library/LaunchDaemons/$1.plist"
 	elif [ -f "pro.firepanther.$1.plist" ]; then echo "pro.firepanther.$1.plist"
+	# search in FireCloud launchDaemons
+	elif [ -f "/User/Documents/FireCloud/launchDaemons/$1" ]; then echo "/User/Documents/FireCloud/launchDaemons/$1"
+	elif [ -f "/User/Documents/FireCloud/launchDaemons/$1.plist" ]; then echo "/User/Documents/FireCloud/launchDaemons/$1.plist"
+	elif [ -f "/User/Documents/FireCloud/launchDaemons/pro.firepanther.$1.plist" ]; then echo "/User/Documents/FireCloud/launchDaemons/pro.firepanther.$1.plist"
+	# search in Library LaunchDaemons
+	elif [ -f "/Library/LaunchDaemons/$1" ]; then echo "/Library/LaunchDaemons/$1"
+	elif [ -f "/Library/LaunchDaemons/$1.plist" ]; then echo "/Library/LaunchDaemons/$1.plist"
 	elif [ -f "/Library/LaunchDaemons/pro.firepanther.$1.plist" ]; then echo "/Library/LaunchDaemons/pro.firepanther.$1.plist"
 	else echo 2> "Can't find file: $1"
 	fi
