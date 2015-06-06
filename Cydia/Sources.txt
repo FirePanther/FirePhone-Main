@@ -3,6 +3,7 @@ deb http://cydia.iphonecake.com/ ./
 deb http://repo666.ultrasn0w.com/ ./
 deb http://elijahandandrew.com/repo/ ./
 deb http://cydia.zodttd.com/repo/cydia/ stable main
+deb http://ios-webstack.tk/cydia/ ./
 deb http://repo.biteyourapple.net/ ./
 deb http://repo.hackyouriphone.org/ ./
 deb http://cydia.xsellize.com/ ./

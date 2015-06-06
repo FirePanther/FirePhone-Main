@@ -277,11 +277,16 @@
  libhide
  libstatusbar
  lzma
+ mdnsresponder
+ miktr.switch.netatalk
  mobilesubstrate
  nano
  ncurses
  net.angelxwind.appsyncunified
  net.mobileinnova.liblocation
+ netatalk
+ netatalk3
+ netatalk3-switch
  network-cmds
  openssh
  openssl
