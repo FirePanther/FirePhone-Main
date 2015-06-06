@@ -1,3 +1,4 @@
+ afpfs-ng
  applist
  apr-lib
  apt
@@ -159,6 +160,7 @@
  firmware
  firmware-sbin
  gawk
+ gcrypt
  gettext
  git
  gnupg
@@ -271,6 +273,7 @@
  jp.tom-go.openopera
  kr.iolate.terminalactivator
  libactivator
+ libgpg-error
  libhide
  libstatusbar
  lzma
