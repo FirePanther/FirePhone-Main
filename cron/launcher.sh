@@ -3,7 +3,7 @@
 # launch some apps in the night to sync some stuff
 
 # if between 2 and 6 am
-if [ "$(date +%k)" -ge 2 ] && [ "$(date +%k)" -le 6 ]; then
+if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 	# if FireTime app is running
 	if [ -n "$(launchctl list | grep pro.firepanther.FireTime)" ]; then
 		# just to be sure, vain glory is not running :D
