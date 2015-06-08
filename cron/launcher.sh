@@ -12,13 +12,17 @@ if [ "$(date +%k)" -ge 2 ] && [ "$(date +%k)" -le 6 ]; then
 			if [ ! -f /tmp/last-launch.txt ] || [ "$(cat /tmp/last-launch.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
 				# if charging
 				if [ -n "$(ioreg -l | grep -i 'ExternalConnected\" = Yes')" ]; then
-					sblaunch -b com.google.photos
-					sblaunch -b com.reederapp.rkit2.ios
-					sblaunch -b com.omnigroup.OmniFocus2.iPhone
-					sblaunch -b com.ifttt.ifttt
-					sblaunch -b ph.telegra.Telegraph
-					sleep 3
-					open pro.firepanther.FireTime
+					sblaunch com.google.photos
+					sleep 1
+					sblaunch com.reederapp.rkit2.ios
+					sleep 1
+					sblaunch com.omnigroup.OmniFocus2.iPhone
+					sleep 1
+					sblaunch com.ifttt.ifttt
+					sleep 1
+					sblaunch ph.telegra.Telegraph
+					sleep 1
+					sblaunch pro.firepanther.FireTime
 					date +%s > /tmp/last-launch.txt
 				fi
 			fi
