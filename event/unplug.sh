@@ -1,3 +1,3 @@
 #!/bin/bash
-killall pro.firepanther.FireTime
+killall FireTime
 ../cron/deviceinfo.sh
