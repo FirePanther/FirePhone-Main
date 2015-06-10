@@ -1,3 +1,3 @@
 #!/bin/bash
 sblaunch pro.firepanther.FireTime
-../cron/deviceinfo.sh
+/User/Documents/FireCloud/cron/deviceinfo.sh

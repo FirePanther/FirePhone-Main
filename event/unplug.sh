@@ -1,3 +1,3 @@
 #!/bin/bash
 killall FireTime
-../cron/deviceinfo.sh
+/User/Documents/FireCloud/cron/deviceinfo.sh
