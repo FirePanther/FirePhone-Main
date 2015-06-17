@@ -50,8 +50,8 @@ alias fcget='/User/Documents/FireCloud/cron/sync.sh'
 # reload bash
 alias rlb='. /User/Documents/FireCloud/Sync/bash_profile.sh'
 
-. inc/ssh.sh
-. inc/lctl.sh
+. /User/Documents/FireCloud/Sync/inc/ssh.sh
+. /User/Documents/FireCloud/Sync/inc/lctl.sh
 
 # play sound
 { sleep .1 && play /User/Documents/FireCloud/Sync/audio/ssh-connected.aiff& disown; } 2>/dev/null
