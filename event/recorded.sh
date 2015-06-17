@@ -2,16 +2,14 @@
 drec=/var/mobile/Library/Keyboard/DisplayRecorder
 recs=/User/Documents/Recordings
 
-sleep 3
-
 cd $drec
 
-for i in {1..50}
+for i in {1..10}
 do
 	last=$(ls -t | grep -i .mov | head -1)
 	if [ -z "$last" ]; then
 		echo "Waiting..."
-		sleep .1
+		sleep .5
 	else
 		echo "Breaking wait"
 		break
@@ -25,7 +23,7 @@ if [ -n "$last" ]; then
 	if [ $button = 0 ]; then
 		# clicked on "Rename"
 		echo "Renaming $last to $value.mov"
-		mv "$drec/$last" $recs/$date-$value.mov
+		mv "$drec/$last" $recs/$date-"$value".mov
 	elif [ $button = 1 ]; then
 		# just move
 		echo "Moving $last"
