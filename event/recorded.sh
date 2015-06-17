@@ -26,7 +26,7 @@ if [ -n "$last" ]; then
 		# clicked on "Rename"
 		echo "Renaming $last to $value.mov"
 		mv "$drec/$last" $recs/$date-$value.mov
-	elif [ $button = 1]; then
+	elif [ $button = 1 ]; then
 		# just move
 		echo "Moving $last"
 		mv "$drec/$last" $recs/$date-$last
