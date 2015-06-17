@@ -2,6 +2,8 @@
 drec=/var/mobile/Library/Keyboard/DisplayRecorder
 recs=/User/Documents/Recordings
 
+sleep 3
+
 cd $drec
 
 for i in {1..10}
