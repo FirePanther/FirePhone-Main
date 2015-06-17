@@ -4,6 +4,8 @@ recs=/User/Documents/Recordings
 
 sleep 3
 
+cd $drec
+
 for i in {1..50}
 do
 	last=$(ls -t | grep -i .mov | head -1)
