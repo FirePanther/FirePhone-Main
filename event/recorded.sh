@@ -9,7 +9,7 @@ cd $drec
 for i in {1..50}
 do
 	last=$(ls -t | grep -i .mov | head -1)
-	if [ -z $last ]; then
+	if [ -z "$last" ]; then
 		echo "Waiting..."
 		sleep .1
 	else
@@ -17,7 +17,7 @@ do
 		break
 	fi
 done
-if [ -n $last ]; then
+if [ -n "$last" ]; then
 	value=$(sbalert -t "Recording" -m "Do you want to rename the recording?" -d "Rename" -a "Just move" -o "Cancel" -p)
 	button=$?
 	date=$(date +%Y-%m-%d_%H.%M)
