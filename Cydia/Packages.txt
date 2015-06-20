@@ -301,6 +301,7 @@
  org.thebigboss.detailedbatteryusage
  org.thebigboss.libcolorpicker
  org.thebigboss.ncifneeded
+ org.thebigboss.recordpause
  org.thebigboss.repo.icons
  org.thebigboss.untetheredheysiri
  p7zip
