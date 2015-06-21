@@ -42,6 +42,7 @@
  com.hackyouriphone.apex2
  com.hackyouriphone.appcake2
  com.hackyouriphone.appsync7
+ com.hackyouriphone.bigifyplus8
  com.hackyouriphone.biolockdown
  com.hackyouriphone.bridge
  com.hackyouriphone.callenhancer
@@ -297,10 +298,13 @@
  org.thebigboss.actif
  org.thebigboss.assistantunrestrictor
  org.thebigboss.ayekit
+ org.thebigboss.blurrybadges
+ org.thebigboss.cameramodes
  org.thebigboss.dathbannerslite
  org.thebigboss.detailedbatteryusage
  org.thebigboss.libcolorpicker
  org.thebigboss.ncifneeded
+ org.thebigboss.recordntorch
  org.thebigboss.recordpause
  org.thebigboss.repo.icons
  org.thebigboss.untetheredheysiri
