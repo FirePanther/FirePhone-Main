@@ -99,6 +99,7 @@
  com.marcosinghof.noslowanimations
  com.mattcmultimedia.googiri
  com.mickstarify.ivibrate
+ com.modmyi.minimalios8
  com.modmyi.sevenclock
  com.niufenfen.ischeduler
  com.nopperssoftware.pushforgmail
@@ -179,6 +180,7 @@
  gsc.assistant
  gsc.auto-focus-camera
  gsc.battery-current-capacity
+ gsc.battery-is-fully-charged
  gsc.bluetooth
  gsc.bluetooth-le
  gsc.board-id
@@ -201,6 +203,7 @@
  gsc.encode-aac
  gsc.encrypted-data-partition
  gsc.external-charge-capability
+ gsc.external-power-source-connected
  gsc.fcc-logos-via-software
  gsc.forward-camera-capability
  gsc.front-facing-camera
@@ -284,6 +287,7 @@
  nano
  ncurses
  net.angelxwind.appsyncunified
+ net.ispazio.applinks
  net.mobileinnova.liblocation
  netatalk
  netatalk3
