@@ -79,6 +79,7 @@
  com.hackyouriphone.swipeselection-pro
  com.hackyouriphone.vestigo
  com.hackyouriphone.virtualhome8
+ com.hackyouriphone.vshare
  com.hackyouriphone.xbackup
  com.i0sa.grabberapp8
  com.ichitaso.sshflipswitch
@@ -109,6 +110,7 @@
  com.phillipt.callconnect
  com.planet-iphones.eclipse
  com.rbt.batterylife
+ com.repo.xarold.com.appsyncunified
  com.repo.xarold.com.carmode
  com.repo.xarold.com.chip
  com.repo.xarold.com.contactsphotosync
@@ -182,7 +184,6 @@
  gsc.assistant
  gsc.auto-focus-camera
  gsc.battery-current-capacity
- gsc.battery-is-fully-charged
  gsc.bluetooth
  gsc.bluetooth-le
  gsc.board-id
@@ -205,7 +206,6 @@
  gsc.encode-aac
  gsc.encrypted-data-partition
  gsc.external-charge-capability
- gsc.external-power-source-connected
  gsc.fcc-logos-via-software
  gsc.forward-camera-capability
  gsc.front-facing-camera
