@@ -45,6 +45,7 @@
  com.hackyouriphone.bigifyplus8
  com.hackyouriphone.biolockdown
  com.hackyouriphone.bridge
+ com.hackyouriphone.callbar7
  com.hackyouriphone.callenhancer
  com.hackyouriphone.carmode
  com.hackyouriphone.contactsphotosync
@@ -116,6 +117,7 @@
  com.repo.xarold.com.eclipse2
  com.repo.xarold.com.fbpp
  com.repo.xarold.com.flipcontrolcenter
+ com.repo.xarold.com.harbor
  com.repo.xarold.com.lockinfo8
  com.repo.xarold.com.packagebackup
  com.repo.xarold.com.qrmode
