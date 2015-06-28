@@ -11,6 +11,7 @@ deb http://sinfuliphonerepo.com/ ./
 deb http://apt.youyuanapp.com/ ./
 deb http://repo.alexzielenski.com/ ./
 deb http://cydia.angelxwind.net/beta/ ./
+deb http://apt.mobcrush.com/ ./
 deb http://repo.xarold.com/ ./
 deb http://apt.modmyi.com/ stable main
 deb http://apt.thebigboss.org/repofiles/cydia/ stable main

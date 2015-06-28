@@ -42,6 +42,7 @@
  com.hackyouriphone.apex2
  com.hackyouriphone.appcake2
  com.hackyouriphone.appsync7
+ com.hackyouriphone.audiorecorder
  com.hackyouriphone.bigifyplus8
  com.hackyouriphone.biolockdown
  com.hackyouriphone.bridge
@@ -101,6 +102,7 @@
  com.marcosinghof.noslowanimations
  com.mattcmultimedia.googiri
  com.mickstarify.ivibrate
+ com.mobcrush.tweak
  com.modmyi.minimalios8
  com.modmyi.sevenclock
  com.niufenfen.ischeduler
