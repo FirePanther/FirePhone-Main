@@ -80,6 +80,7 @@
  com.hackyouriphone.smarttap
  com.hackyouriphone.swipeexpander
  com.hackyouriphone.swipeselection-pro
+ com.hackyouriphone.tage
  com.hackyouriphone.tganyfiles
  com.hackyouriphone.vestigo
  com.hackyouriphone.virtualhome8
