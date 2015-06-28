@@ -20,6 +20,7 @@
  com.aehmlo.powerdownenhancer
  com.alberts.youtubetomp3
  com.alexzielenski.tinybar
+ com.andyplace.iwhiteboard
  com.autopear.installipa
  com.bd452.bypass
  com.bd452.libpass
@@ -39,6 +40,7 @@
  com.eldwin.iwidgets
  com.ericasadun.utilities
  com.evilgoldfish.lockglyph
+ com.evilgoldfish.shazamonstart
  com.hackyouriphone.apex2
  com.hackyouriphone.appcake2
  com.hackyouriphone.appsync7
@@ -78,12 +80,14 @@
  com.hackyouriphone.smarttap
  com.hackyouriphone.swipeexpander
  com.hackyouriphone.swipeselection-pro
+ com.hackyouriphone.tganyfiles
  com.hackyouriphone.vestigo
  com.hackyouriphone.virtualhome8
  com.hackyouriphone.vshare
  com.hackyouriphone.xbackup
  com.i0sa.grabberapp8
  com.ichitaso.sshflipswitch
+ com.idevicelover.youtubepro
  com.ifonetec.cylay
  com.imokhles.whatsappwebenabler
  com.indien.simplewifi
@@ -113,6 +117,7 @@
  com.planet-iphones.eclipse
  com.rbt.batterylife
  com.repo.xarold.com.appsyncunified
+ com.repo.xarold.com.betteryoutube
  com.repo.xarold.com.carmode
  com.repo.xarold.com.chip
  com.repo.xarold.com.contactsphotosync
@@ -130,6 +135,7 @@
  com.repo.xarold.com.switchability
  com.repo.xarold.com.tinybar
  com.repo.xarold.com.videopane
+ com.repo.xarold.com.youtube
  com.rpetrich.browserchooser
  com.rpetrich.rocketbootstrap
  com.saurik.afc2d
@@ -360,6 +366,7 @@
  repo.biteyourapple.net.swipeexpander
  repo.biteyourapple.net.videopane
  repo.biteyourapple.net.virtualhome8
+ repo.biteyourapple.net.wunderlist
  repo.biteyourapple.net.youtubetomp3
  rsync
  sed
