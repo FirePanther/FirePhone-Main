@@ -29,6 +29,7 @@
  com.booleanmagic.wicarrier
  com.broganminer.cswitcher
  com.bytafont.bytafont2
+ com.bytafont2.robotolight
  com.canshe.keyboardvibrate8
  com.chpwn.iconsupport
  com.conradkramer.open
@@ -38,6 +39,7 @@
  com.dba-tech.lockpages
  com.dpkgdan.powertap
  com.efrederickson.batteryusageenhancer
+ com.efrederickson.powersaver
  com.eldwin.iwidgets
  com.ericasadun.utilities
  com.evilgoldfish.lockglyph
