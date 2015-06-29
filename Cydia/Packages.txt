@@ -28,6 +28,7 @@
  com.booleanmagic.displayrecorder
  com.booleanmagic.wicarrier
  com.broganminer.cswitcher
+ com.bytafont.bytafont2
  com.canshe.keyboardvibrate8
  com.chpwn.iconsupport
  com.conradkramer.open
