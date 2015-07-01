@@ -196,6 +196,7 @@
  gsc.assistant
  gsc.auto-focus-camera
  gsc.battery-current-capacity
+ gsc.battery-is-charging
  gsc.bluetooth
  gsc.bluetooth-le
  gsc.board-id
@@ -218,6 +219,7 @@
  gsc.encode-aac
  gsc.encrypted-data-partition
  gsc.external-charge-capability
+ gsc.external-power-source-connected
  gsc.fcc-logos-via-software
  gsc.forward-camera-capability
  gsc.front-facing-camera
@@ -231,7 +233,6 @@
  gsc.has-spring-board
  gsc.hd-video-capture
  gsc.hdr-image-capture
- gsc.hiccough-interval
  gsc.hidpi
  gsc.homescreen-wallpaper
  gsc.hw-encode-snapshots
@@ -260,14 +261,12 @@
  gsc.rear-camera-capability
  gsc.regional-behavior-e-u-volume-limit
  gsc.regional-behavior-volume-limit
- gsc.required-battery-level-for-software-update
  gsc.ringer-switch
  gsc.signing-fuse
  gsc.sms
  gsc.stand-alone-contacts
  gsc.still-camera
  gsc.telephony
- gsc.telephony-maximum-generation
  gsc.tv-out-crossfade
  gsc.unified-ipod
  gsc.venice
