@@ -196,7 +196,7 @@
  gsc.assistant
  gsc.auto-focus-camera
  gsc.battery-current-capacity
- gsc.battery-is-charging
+ gsc.battery-is-fully-charged
  gsc.bluetooth
  gsc.bluetooth-le
  gsc.board-id
