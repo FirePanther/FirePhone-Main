@@ -33,6 +33,7 @@
  com.canshe.keyboardvibrate8
  com.chpwn.iconsupport
  com.conradkramer.open
+ com.cpdigitaldarkroom.cornered
  com.cpdigitaldarkroom.taptapflip
  com.cpdigitaldarkroom.volumebanner
  com.dantesieg.flurry
