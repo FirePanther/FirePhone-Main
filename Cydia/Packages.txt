@@ -1,165 +1,45 @@
- afpfs-ng
  applist
  apr-lib
- apt
- apt7
  apt7-key
  apt7-lib
  base
  bash
  basic-cmds
- berkeleydb
  bzip2
- ca.adambell.ignition
- ca.adambell.spectral
- cc.tweak.statushud
- co.cocoanuts.gremlin
- co.cocoanuts.gremlinplugins
  com.a3tweaks.flipswitch
  com.accuratweaks.common
- com.aehmlo.powerdownenhancer
- com.alberts.youtubetomp3
  com.alexzielenski.tinybar
- com.andyplace.iwhiteboard
- com.autopear.installipa
- com.bd452.bypass
- com.bd452.libpass
- com.bensge.wipi
  com.booleanmagic.displayrecorder
- com.booleanmagic.wicarrier
- com.broganminer.cswitcher
  com.bytafont.bytafont2
  com.bytafont2.robotolight
- com.canshe.keyboardvibrate8
- com.chpwn.iconsupport
- com.conradkramer.open
- com.cpdigitaldarkroom.cornered
  com.cpdigitaldarkroom.taptapflip
  com.cpdigitaldarkroom.volumebanner
- com.dantesieg.flurry
- com.dba-tech.lockpages
- com.dpkgdan.powertap
  com.efrederickson.batteryusageenhancer
- com.efrederickson.powersaver
- com.eldwin.iwidgets
  com.ericasadun.utilities
- com.evilgoldfish.lockglyph
  com.evilgoldfish.shazamonstart
- com.hackyouriphone.apex2
- com.hackyouriphone.appcake2
- com.hackyouriphone.appsync7
  com.hackyouriphone.audiorecorder
- com.hackyouriphone.bigifyplus8
- com.hackyouriphone.biolockdown
- com.hackyouriphone.bridge
  com.hackyouriphone.callbar7
- com.hackyouriphone.callenhancer
- com.hackyouriphone.carmode
- com.hackyouriphone.contactsphotosync
- com.hackyouriphone.daydreaming
- com.hackyouriphone.envelope
- com.hackyouriphone.fulldrop
- com.hackyouriphone.iap
- com.hackyouriphone.iapcrazy
  com.hackyouriphone.iconrepo
- com.hackyouriphone.ifile
- com.hackyouriphone.igotya
- com.hackyouriphone.linkstoreios8
- com.hackyouriphone.linktunesios8
- com.hackyouriphone.messageheads
- com.hackyouriphone.moviebox
- com.hackyouriphone.multitaskinggestures
- com.hackyouriphone.newmoviebox
- com.hackyouriphone.notifywifi7
- com.hackyouriphone.packagebackup
- com.hackyouriphone.photect
- com.hackyouriphone.pushforgmail
- com.hackyouriphone.pwntunesios8
- com.hackyouriphone.recordmyscreentweak
- com.hackyouriphone.rendarya8
- com.hackyouriphone.roqyusb
- com.hackyouriphone.sbcontacts
- com.hackyouriphone.screendimmer
- com.hackyouriphone.sleipnizerforsafari
- com.hackyouriphone.smarttap
- com.hackyouriphone.swipeexpander
- com.hackyouriphone.swipeselection-pro
- com.hackyouriphone.tage
- com.hackyouriphone.tganyfiles
- com.hackyouriphone.vestigo
- com.hackyouriphone.virtualhome8
- com.hackyouriphone.vshare
- com.hackyouriphone.xbackup
- com.i0sa.grabberapp8
- com.ichitaso.sshflipswitch
- com.idevicelover.youtubepro
- com.ifonetec.cylay
  com.imokhles.whatsappwebenabler
- com.indien.simplewifi
  com.innoying.sbutils
- com.intelliborn.intelliscreenx81
- com.intelliborn.messagesplus
- com.intelliborn.messagesplus8
- com.intelliscreenx
  com.iphonecake.appcake2
- com.jamied360.switch.ssh
- com.joshdoctors.bannerbuddy
- com.joshdoctors.powerbanners
- com.kindadev.goodfit
- com.liv2.togglessh
- com.marcosinghof.darkfolders7
  com.marcosinghof.noslowanimations
- com.mattcmultimedia.googiri
- com.mickstarify.ivibrate
- com.mobcrush.tweak
  com.modmyi.minimalios8
- com.modmyi.sevenclock
- com.niufenfen.ischeduler
- com.nopperssoftware.pushforgmail
  com.officialscheduler.mterminal
- com.ouraigua.jodebox
  com.phillipt.callconnect
- com.planet-iphones.eclipse
- com.rbt.batterylife
- com.repo.xarold.com.appsyncunified
- com.repo.xarold.com.betteryoutube
- com.repo.xarold.com.carmode
- com.repo.xarold.com.chip
- com.repo.xarold.com.contactsphotosync
- com.repo.xarold.com.copic
- com.repo.xarold.com.displayrecorder
- com.repo.xarold.com.eclipse2
- com.repo.xarold.com.fbpp
  com.repo.xarold.com.flipcontrolcenter
  com.repo.xarold.com.harbor
- com.repo.xarold.com.lockinfo8
- com.repo.xarold.com.packagebackup
- com.repo.xarold.com.qrmode
- com.repo.xarold.com.rendarya8
- com.repo.xarold.com.socialduplicator2
- com.repo.xarold.com.switchability
- com.repo.xarold.com.tinybar
- com.repo.xarold.com.videopane
- com.repo.xarold.com.youtube
- com.rpetrich.browserchooser
+ com.repo.xarold.com.igotya
+ com.repo.xarold.com.photect
+ com.repo.xarold.com.slide2kill8pro
+ com.repo.xarold.com.swipeexpander
+ com.repo.xarold.com.swipeselection-pro
+ com.repo.xarold.com.virtualhome8
  com.rpetrich.rocketbootstrap
- com.saurik.afc2d
+ com.saurik.patcyh
  com.saurik.substrate.safemode
- com.sinfuliphone.igotya
- com.sinfuliphone.repoprep
- com.skylerk99.sbflip
- com.spiritoflogic.pwntunes.ios8
- com.suu.slide2kill8lite
- com.thomasfinch.priorityhub
- com.w00tylab.virtualhome
- com.wasor.oopslock
- com.wesley6j.favboxlite
- com.xsellize.bridge
- com.zimm.libdisplaystack
- com.zokunei.openbackup
  coreutils
  coreutils-bin
- crash-reporter
  curl
  cy+cpu.arm64
  cy+kernel.darwin
@@ -171,16 +51,12 @@
  darwintools
  debianutils
  diffutils
- diskdev-cmds
  dpkg
  expat
- file-cmds
  findutils
  firmware
  firmware-sbin
  gawk
- gcrypt
- gettext
  git
  gnupg
  grep
@@ -197,7 +73,7 @@
  gsc.assistant
  gsc.auto-focus-camera
  gsc.battery-current-capacity
- gsc.battery-is-fully-charged
+ gsc.battery-is-charging
  gsc.bluetooth
  gsc.bluetooth-le
  gsc.board-id
@@ -211,7 +87,6 @@
  gsc.device-supports1080p
  gsc.device-supports3-d-imagery
  gsc.device-supports3-d-maps
- gsc.device-supports4-g
  gsc.device-supports720p
  gsc.device-supports9-pin
  gsc.dictation
@@ -279,54 +154,27 @@
  gsc.wifi
  gsc.youtube
  gzip
- io.pangu.loader
- io.pangu.xuanyuansword8
- iokittools
- isklikas.notescreator
- jp.ashikase.lastapp
- jp.ashikase.libcrashreport
- jp.ashikase.libpackageinfo
- jp.ashikase.libsymbolicate
- jp.ashikase.techsupport
- jp.tom-go.openopera
- kr.iolate.terminalactivator
+ ldid
  libactivator
- libgpg-error
  libhide
- libstatusbar
  lzma
- mdnsresponder
- miktr.switch.netatalk
  mobilesubstrate
  nano
  ncurses
  net.angelxwind.appsyncunified
  net.ispazio.applinks
  net.mobileinnova.liblocation
- netatalk
- netatalk3
- netatalk3-switch
  network-cmds
  openssh
  openssl
- org.altervista.exilecom.icleaner
- org.coolstar.recordmyscreentweak
  org.rdharris.activatecommand
- org.rdharris.activatelink
  org.thebigboss.actif
- org.thebigboss.assistantunrestrictor
- org.thebigboss.ayekit
- org.thebigboss.blurrybadges
  org.thebigboss.cameramodes
- org.thebigboss.dathbannerslite
- org.thebigboss.detailedbatteryusage
  org.thebigboss.libcolorpicker
- org.thebigboss.ncifneeded
  org.thebigboss.recordntorch
  org.thebigboss.recordpause
  org.thebigboss.repo.icons
  org.thebigboss.untetheredheysiri
- p7zip
  pam
  pam-modules
  pcre
@@ -334,57 +182,16 @@
  preferenceloader
  profile.d
  readline
- repo.biteyourapple.net.appbox8
- repo.biteyourapple.net.appsync70plus
- repo.biteyourapple.net.appsyncunified
- repo.biteyourapple.net.autotouch8
- repo.biteyourapple.net.auxo3
- repo.biteyourapple.net.avatarsync
- repo.biteyourapple.net.ayeris
- repo.biteyourapple.net.blocker2
- repo.biteyourapple.net.bridge
  repo.biteyourapple.net.byarepoicons
- repo.biteyourapple.net.callbar7
- repo.biteyourapple.net.chip
- repo.biteyourapple.net.common
- repo.biteyourapple.net.contactsphotosync
- repo.biteyourapple.net.eclipse2
  repo.biteyourapple.net.hideme8
- repo.biteyourapple.net.iap
- repo.biteyourapple.net.iblacklist
- repo.biteyourapple.net.igotya
- repo.biteyourapple.net.ioptimizeurbattery7
- repo.biteyourapple.net.lockinfo
- repo.biteyourapple.net.mobileterminal
- repo.biteyourapple.net.pkgbackup
- repo.biteyourapple.net.pphelper
- repo.biteyourapple.net.pushtone
  repo.biteyourapple.net.qrmode
  repo.biteyourapple.net.quickactivator
- repo.biteyourapple.net.reachapp
- repo.biteyourapple.net.sleeksleep
- repo.biteyourapple.net.sleipnizer
- repo.biteyourapple.net.slide2kill8pro
- repo.biteyourapple.net.spotium
- repo.biteyourapple.net.streamenhancer
- repo.biteyourapple.net.swipeexpander
- repo.biteyourapple.net.videopane
- repo.biteyourapple.net.virtualhome8
- repo.biteyourapple.net.wunderlist
- repo.biteyourapple.net.youtubetomp3
- rsync
  sed
  shell-cmds
- sudo
  system-cmds
+ taiguntether83x
  tar
  top
  uikittools
- unrar
- unzip
- wget
  winterboard
- ws.hbang.common
- ws.hbang.notiquiet
- ws.hbang.typestatus
  zip
