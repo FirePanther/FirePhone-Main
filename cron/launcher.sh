@@ -11,7 +11,7 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 			# if last run older than 14 hours
 			if [ ! -f /tmp/last-launch.txt ] || [ "$(cat /tmp/last-launch.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
 				# if charging
-				if [ -n "$(ioreg -l | grep -i 'ExternalConnected\" = Yes')" ]; then
+				if [ "`sbdevice -s`" = "Charging" ]; then
 					sblaunch com.google.photos
 					sleep 1
 					sblaunch com.reederapp.rkit2.ios
