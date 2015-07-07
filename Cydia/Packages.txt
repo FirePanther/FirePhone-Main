@@ -11,14 +11,18 @@
  com.alexzielenski.tinybar
  com.booleanmagic.displayrecorder
  com.bytafont.bytafont2
+ com.bytafont2.roboto
  com.bytafont2.robotolight
  com.cpdigitaldarkroom.taptapflip
  com.cpdigitaldarkroom.volumebanner
+ com.dbk1ng.sanfranciscoios8
+ com.dbk1ng.sanfranciscoroundedios8
  com.efrederickson.batteryusageenhancer
  com.ericasadun.utilities
  com.evilgoldfish.shazamonstart
  com.hackyouriphone.audiorecorder
  com.hackyouriphone.callbar7
+ com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
  com.imokhles.whatsappwebenabler
  com.innoying.sbutils
