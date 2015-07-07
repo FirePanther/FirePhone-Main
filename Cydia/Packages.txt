@@ -57,6 +57,7 @@
  firmware
  firmware-sbin
  gawk
+ gettext
  git
  gnupg
  grep
@@ -193,5 +194,6 @@
  tar
  top
  uikittools
+ wget
  winterboard
  zip
