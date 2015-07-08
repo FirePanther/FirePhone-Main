@@ -4,10 +4,11 @@ deb http://elijahandandrew.com/repo/ ./
 deb http://cydia.zodttd.com/repo/cydia/ stable main
 deb http://ios-webstack.tk/cydia/ ./
 deb http://repo.biteyourapple.net/ ./
-deb http://repo.hackyouriphone.org/ ./
 deb http://dbk1ng.github.io/ ./
+deb http://repo.hackyouriphone.org/ ./
 deb http://repo.alexzielenski.com/ ./
 deb http://cydia.angelxwind.net/beta/ ./
+deb http://cydia.ianburns.co/ ./
 deb http://repo.xarold.com/ ./
 deb http://apt.modmyi.com/ stable main
 deb http://apt.thebigboss.org/repofiles/cydia/ stable main

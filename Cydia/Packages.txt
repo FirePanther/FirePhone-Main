@@ -13,6 +13,7 @@
  com.bytafont.bytafont2
  com.bytafont2.roboto
  com.bytafont2.robotolight
+ com.cpdigitaldarkroom.cornered
  com.cpdigitaldarkroom.taptapflip
  com.cpdigitaldarkroom.volumebanner
  com.dbk1ng.sanfranciscoios8
@@ -24,6 +25,9 @@
  com.hackyouriphone.callbar7
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
+ com.hackyouriphone.powersaver
+ com.hackyouriphone.reachapp
+ com.ianb821.roundedswitchercards
  com.imokhles.whatsappwebenabler
  com.innoying.sbutils
  com.iphonecake.appcake2
@@ -159,6 +163,7 @@
  gsc.wifi
  gsc.youtube
  gzip
+ jp.ashikase.lastapp
  ldid
  libactivator
  libhide
