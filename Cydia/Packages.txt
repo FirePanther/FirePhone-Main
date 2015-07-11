@@ -180,6 +180,7 @@
  org.rdharris.activatecommand
  org.thebigboss.actif
  org.thebigboss.cameramodes
+ org.thebigboss.dismissprogress
  org.thebigboss.libcolorpicker
  org.thebigboss.recordntorch
  org.thebigboss.recordpause
