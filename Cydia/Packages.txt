@@ -37,6 +37,7 @@
  com.phillipt.callconnect
  com.repo.xarold.com.flipcontrolcenter
  com.repo.xarold.com.harbor
+ com.repo.xarold.com.ifile
  com.repo.xarold.com.igotya
  com.repo.xarold.com.photect
  com.repo.xarold.com.slide2kill8pro
@@ -59,8 +60,10 @@
  darwintools
  debianutils
  diffutils
+ diskdev-cmds
  dpkg
  expat
+ file-cmds
  findutils
  firmware
  firmware-sbin
@@ -186,6 +189,7 @@
  org.thebigboss.recordpause
  org.thebigboss.repo.icons
  org.thebigboss.untetheredheysiri
+ p7zip
  pam
  pam-modules
  pcre
@@ -204,6 +208,8 @@
  tar
  top
  uikittools
+ unrar
+ unzip
  wget
  winterboard
  zip
