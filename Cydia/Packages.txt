@@ -9,6 +9,7 @@
  com.a3tweaks.flipswitch
  com.accuratweaks.common
  com.alexzielenski.tinybar
+ com.alexzielenski.zeppelin
  com.booleanmagic.displayrecorder
  com.bytafont.bytafont2
  com.bytafont2.roboto
@@ -33,13 +34,16 @@
  com.iphonecake.appcake2
  com.marcosinghof.noslowanimations
  com.modmyi.minimalios8
+ com.modmyi.tabless
  com.officialscheduler.mterminal
  com.phillipt.callconnect
+ com.pumba.statusbarsuite
  com.repo.xarold.com.flipcontrolcenter
  com.repo.xarold.com.harbor
  com.repo.xarold.com.ifile
  com.repo.xarold.com.igotya
  com.repo.xarold.com.photect
+ com.repo.xarold.com.quickactivator
  com.repo.xarold.com.slide2kill8pro
  com.repo.xarold.com.swipeexpander
  com.repo.xarold.com.swipeselection-pro
@@ -176,6 +180,7 @@
  ncurses
  net.angelxwind.appsyncunified
  net.ispazio.applinks
+ net.limneos.callbar7
  net.mobileinnova.liblocation
  network-cmds
  openssh
@@ -198,6 +203,7 @@
  profile.d
  readline
  repo.biteyourapple.net.byarepoicons
+ repo.biteyourapple.net.cloaky
  repo.biteyourapple.net.hideme8
  repo.biteyourapple.net.qrmode
  repo.biteyourapple.net.quickactivator
