@@ -24,6 +24,7 @@
  com.evilgoldfish.shazamonstart
  com.hackyouriphone.audiorecorder
  com.hackyouriphone.callbar7
+ com.hackyouriphone.datameter
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
  com.hackyouriphone.powersaver
@@ -38,6 +39,7 @@
  com.officialscheduler.mterminal
  com.phillipt.callconnect
  com.pumba.statusbarsuite
+ com.repo.xarold.com.exkey
  com.repo.xarold.com.flipcontrolcenter
  com.repo.xarold.com.harbor
  com.repo.xarold.com.ifile
