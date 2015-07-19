@@ -1,15 +1,16 @@
  applist
  apr-lib
+ apt
+ apt7
  apt7-key
  apt7-lib
  base
  bash
  basic-cmds
+ berkeleydb
  bzip2
  com.a3tweaks.flipswitch
  com.accuratweaks.common
- com.alexzielenski.tinybar
- com.alexzielenski.zeppelin
  com.booleanmagic.displayrecorder
  com.bytafont.bytafont2
  com.bytafont2.roboto
@@ -23,28 +24,25 @@
  com.ericasadun.utilities
  com.evilgoldfish.shazamonstart
  com.hackyouriphone.audiorecorder
- com.hackyouriphone.callbar7
  com.hackyouriphone.datameter
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
  com.hackyouriphone.powersaver
  com.hackyouriphone.reachapp
- com.ianb821.roundedswitchercards
  com.imokhles.whatsappwebenabler
  com.innoying.sbutils
  com.iphonecake.appcake2
+ com.ludvigeriksson.statusbartimer
  com.marcosinghof.noslowanimations
  com.modmyi.minimalios8
  com.modmyi.tabless
  com.officialscheduler.mterminal
  com.phillipt.callconnect
- com.pumba.statusbarsuite
  com.repo.xarold.com.exkey
- com.repo.xarold.com.flipcontrolcenter
  com.repo.xarold.com.harbor
+ com.repo.xarold.com.icleanerpro
  com.repo.xarold.com.ifile
  com.repo.xarold.com.igotya
- com.repo.xarold.com.photect
  com.repo.xarold.com.quickactivator
  com.repo.xarold.com.slide2kill8pro
  com.repo.xarold.com.swipeexpander
@@ -175,7 +173,6 @@
  jp.ashikase.lastapp
  ldid
  libactivator
- libhide
  lzma
  mobilesubstrate
  nano
@@ -206,9 +203,7 @@
  readline
  repo.biteyourapple.net.byarepoicons
  repo.biteyourapple.net.cloaky
- repo.biteyourapple.net.hideme8
  repo.biteyourapple.net.qrmode
- repo.biteyourapple.net.quickactivator
  sed
  shell-cmds
  system-cmds
