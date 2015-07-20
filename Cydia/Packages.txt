@@ -42,6 +42,7 @@
  com.modmyi.minimalios8
  com.modmyi.tabless
  com.officialscheduler.mterminal
+ com.oranav.mapsenhancer
  com.phillipt.callconnect
  com.pugliagianluca.fmfnotifier
  com.repo.xarold.com.exkey
@@ -188,6 +189,7 @@
  nano
  ncurses
  net.angelxwind.appsyncunified
+ net.evancoleman.speedformaps
  net.ispazio.applinks
  net.limneos.callbar7
  net.mobileinnova.liblocation
