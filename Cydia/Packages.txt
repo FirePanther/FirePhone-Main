@@ -213,6 +213,7 @@
  preferenceloader
  profile.d
  readline
+ repo.biteyourapple.net.betterwifi7
  repo.biteyourapple.net.byarepoicons
  repo.biteyourapple.net.cloaky
  repo.biteyourapple.net.prowidgets
