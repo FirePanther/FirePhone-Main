@@ -196,6 +196,7 @@
  network-cmds
  openssh
  openssl
+ org.herf.flux
  org.rdharris.activatecommand
  org.thebigboss.actif
  org.thebigboss.cameramodes
@@ -204,6 +205,7 @@
  org.thebigboss.recordntorch
  org.thebigboss.recordpause
  org.thebigboss.repo.icons
+ org.thebigboss.swipeformore
  org.thebigboss.untetheredheysiri
  p7zip
  pam
