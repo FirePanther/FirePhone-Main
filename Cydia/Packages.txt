@@ -1,3 +1,4 @@
+ adv-cmds
  applist
  apr-lib
  apt
@@ -9,6 +10,8 @@
  basic-cmds
  berkeleydb
  bzip2
+ cc.tweak.libobjcipc
+ cc.tweak.prowidgets
  com.a3tweaks.flipswitch
  com.accuratweaks.common
  com.booleanmagic.displayrecorder
@@ -29,15 +32,18 @@
  com.hackyouriphone.iconrepo
  com.hackyouriphone.powersaver
  com.hackyouriphone.reachapp
+ com.iforgottonamethis.nomoreseparators
  com.imokhles.whatsappwebenabler
  com.innoying.sbutils
  com.iphonecake.appcake2
+ com.kaelanduck.wot
  com.ludvigeriksson.statusbartimer
  com.marcosinghof.noslowanimations
  com.modmyi.minimalios8
  com.modmyi.tabless
  com.officialscheduler.mterminal
  com.phillipt.callconnect
+ com.pugliagianluca.fmfnotifier
  com.repo.xarold.com.exkey
  com.repo.xarold.com.harbor
  com.repo.xarold.com.icleanerpro
@@ -48,9 +54,12 @@
  com.repo.xarold.com.swipeexpander
  com.repo.xarold.com.swipeselection-pro
  com.repo.xarold.com.virtualhome8
+ com.repo.xarold.com.vocoder
  com.rpetrich.rocketbootstrap
+ com.samstone.translucentcydia
  com.saurik.patcyh
  com.saurik.substrate.safemode
+ com.weishi.fmfipspoofer
  coreutils
  coreutils-bin
  curl
@@ -170,6 +179,7 @@
  gsc.wifi
  gsc.youtube
  gzip
+ in.timper.1passprowidget
  jp.ashikase.lastapp
  ldid
  libactivator
@@ -203,6 +213,7 @@
  readline
  repo.biteyourapple.net.byarepoicons
  repo.biteyourapple.net.cloaky
+ repo.biteyourapple.net.prowidgets
  repo.biteyourapple.net.qrmode
  sed
  shell-cmds
@@ -215,4 +226,6 @@
  unzip
  wget
  winterboard
+ ws.hbang.codling
+ ws.hbang.common
  zip
