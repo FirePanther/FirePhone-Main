@@ -204,16 +204,20 @@
  network-cmds
  openssh
  openssl
+ org.coolstar.classicfolders
  org.herf.flux
  org.rdharris.activatecommand
  org.thebigboss.actif
+ org.thebigboss.camblur7
  org.thebigboss.cameramodes
  org.thebigboss.dismissprogress
+ org.thebigboss.hudspeed
  org.thebigboss.libcolorpicker
  org.thebigboss.recordntorch
  org.thebigboss.recordpause
  org.thebigboss.repo.icons
  org.thebigboss.swipeformore
+ org.thebigboss.transparentcamerabar
  org.thebigboss.untetheredheysiri
  p7zip
  pam
