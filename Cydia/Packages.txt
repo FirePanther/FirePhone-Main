@@ -23,10 +23,12 @@
  com.cpdigitaldarkroom.volumebanner
  com.dbk1ng.sanfranciscoios8
  com.dbk1ng.sanfranciscoroundedios8
+ com.dpkgdan.powertap
  com.efrederickson.batteryusageenhancer
  com.ericasadun.utilities
  com.evilgoldfish.shazamonstart
  com.hackyouriphone.audiorecorder
+ com.hackyouriphone.colorbadges
  com.hackyouriphone.datameter
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
@@ -36,6 +38,7 @@
  com.imokhles.whatsappwebenabler
  com.innoying.sbutils
  com.iphonecake.appcake2
+ com.jaysan1292.fluxtoggle
  com.kaelanduck.wot
  com.ludvigeriksson.statusbartimer
  com.marcosinghof.noslowanimations
@@ -45,6 +48,7 @@
  com.oranav.mapsenhancer
  com.phillipt.callconnect
  com.pugliagianluca.fmfnotifier
+ com.repo.xarold.com.classicfolders
  com.repo.xarold.com.exkey
  com.repo.xarold.com.harbor
  com.repo.xarold.com.icleanerpro
@@ -54,13 +58,16 @@
  com.repo.xarold.com.slide2kill8pro
  com.repo.xarold.com.swipeexpander
  com.repo.xarold.com.swipeselection-pro
+ com.repo.xarold.com.timepasscodepro
  com.repo.xarold.com.virtualhome8
  com.repo.xarold.com.vocoder
+ com.rpetrich.iconrenamer
  com.rpetrich.rocketbootstrap
  com.samstone.translucentcydia
  com.saurik.patcyh
  com.saurik.substrate.safemode
  com.weishi.fmfipspoofer
+ com.xtm3x.sleekkey
  coreutils
  coreutils-bin
  curl
@@ -185,6 +192,7 @@
  ldid
  libactivator
  lzma
+ miktr.switch.flux
  mobilesubstrate
  nano
  ncurses
@@ -218,6 +226,7 @@
  repo.biteyourapple.net.betterwifi7
  repo.biteyourapple.net.byarepoicons
  repo.biteyourapple.net.cloaky
+ repo.biteyourapple.net.colorbanners
  repo.biteyourapple.net.prowidgets
  repo.biteyourapple.net.qrmode
  sed
