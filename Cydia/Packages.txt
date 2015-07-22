@@ -30,6 +30,7 @@
  com.hackyouriphone.audiorecorder
  com.hackyouriphone.colorbadges
  com.hackyouriphone.datameter
+ com.hackyouriphone.eclipse2
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
  com.hackyouriphone.powersaver
@@ -49,6 +50,7 @@
  com.phillipt.callconnect
  com.pugliagianluca.fmfnotifier
  com.repo.xarold.com.classicfolders
+ com.repo.xarold.com.eclipse2
  com.repo.xarold.com.exkey
  com.repo.xarold.com.harbor
  com.repo.xarold.com.icleanerpro
@@ -211,6 +213,7 @@
  org.thebigboss.camblur7
  org.thebigboss.cameramodes
  org.thebigboss.dismissprogress
+ org.thebigboss.eclipse2
  org.thebigboss.hudspeed
  org.thebigboss.libcolorpicker
  org.thebigboss.recordntorch
@@ -231,6 +234,7 @@
  repo.biteyourapple.net.byarepoicons
  repo.biteyourapple.net.cloaky
  repo.biteyourapple.net.colorbanners
+ repo.biteyourapple.net.eclipse2
  repo.biteyourapple.net.prowidgets
  repo.biteyourapple.net.qrmode
  sed
