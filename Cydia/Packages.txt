@@ -69,6 +69,7 @@
  com.saurik.patcyh
  com.saurik.substrate.safemode
  com.weishi.fmfipspoofer
+ com.weishi.fmflocationfix
  com.xtm3x.sleekkey
  coreutils
  coreutils-bin
