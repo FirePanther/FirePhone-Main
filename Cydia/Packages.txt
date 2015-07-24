@@ -71,6 +71,7 @@
  com.repo.xarold.com.virtualhome8
  com.repo.xarold.com.vocoder
  com.rpetrich.iconrenamer
+ com.rpetrich.pulltodismiss
  com.rpetrich.rocketbootstrap
  com.samstone.translucentcydia
  com.saurik.patcyh
