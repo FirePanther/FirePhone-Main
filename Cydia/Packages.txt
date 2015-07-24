@@ -19,6 +19,7 @@
  com.bytafont2.roboto
  com.bytafont2.robotolight
  com.cpdigitaldarkroom.cornered
+ com.cpdigitaldarkroom.hideme8-lite
  com.cpdigitaldarkroom.taptapflip
  com.cpdigitaldarkroom.volumebanner
  com.dbk1ng.sanfranciscoios8
@@ -34,6 +35,7 @@
  com.hackyouriphone.eclipse2
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
+ com.hackyouriphone.livebatteryindicator
  com.hackyouriphone.powersaver
  com.hackyouriphone.reachapp
  com.iforgottonamethis.nomoreseparators
@@ -56,6 +58,7 @@
  com.repo.xarold.com.eclipse2
  com.repo.xarold.com.exkey
  com.repo.xarold.com.harbor
+ com.repo.xarold.com.hideme8
  com.repo.xarold.com.icleanerpro
  com.repo.xarold.com.ifile
  com.repo.xarold.com.igotya
@@ -113,7 +116,6 @@
  gsc.assistant
  gsc.auto-focus-camera
  gsc.battery-current-capacity
- gsc.battery-is-charging
  gsc.bluetooth
  gsc.bluetooth-le
  gsc.board-id
@@ -135,7 +137,6 @@
  gsc.encode-aac
  gsc.encrypted-data-partition
  gsc.external-charge-capability
- gsc.external-power-source-connected
  gsc.fcc-logos-via-software
  gsc.forward-camera-capability
  gsc.front-facing-camera
@@ -198,6 +199,7 @@
  jp.ashikase.lastapp
  ldid
  libactivator
+ libhide
  libstatusbar
  lzma
  miktr.switch.flux
@@ -208,6 +210,7 @@
  net.evancoleman.speedformaps
  net.ispazio.applinks
  net.limneos.callbar7
+ net.mobileinnova.igotya
  net.mobileinnova.liblocation
  network-cmds
  openssh
