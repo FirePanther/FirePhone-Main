@@ -234,6 +234,7 @@
  org.thebigboss.cameramodes
  org.thebigboss.dismissprogress
  org.thebigboss.eclipse2
+ org.thebigboss.fastloading
  org.thebigboss.hudspeed
  org.thebigboss.libcolorpicker
  org.thebigboss.recordntorch
