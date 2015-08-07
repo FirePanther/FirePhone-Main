@@ -7,8 +7,8 @@ deb http://ios-webstack.tk/cydia/ ./
 deb http://repo.biteyourapple.net/ ./
 deb http://dbk1ng.github.io/ ./
 deb http://system.in-appstore.com/repo/ ./
-deb http://repo.hackyouriphone.org/ ./
 deb http://cydia.myrepospace.com/urus/ ./
+deb http://repo.hackyouriphone.org/ ./
 deb http://repo.alexzielenski.com/ ./
 deb http://cydia.angelxwind.net/beta/ ./
 deb http://cydia.ianburns.co/ ./

@@ -20,6 +20,7 @@
  com.bytafont.bytafont2
  com.bytafont2.roboto
  com.bytafont2.robotolight
+ com.chpwn.weeloader
  com.cpdigitaldarkroom.cornered
  com.cpdigitaldarkroom.hideme8-lite
  com.cpdigitaldarkroom.taptapflip
@@ -39,6 +40,8 @@
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
  com.hackyouriphone.livebatteryindicator
+ com.hackyouriphone.multiclips8
+ com.hackyouriphone.notificator
  com.hackyouriphone.powersaver
  com.hackyouriphone.reachapp
  com.iforgottonamethis.nomoreseparators
@@ -69,6 +72,7 @@
  com.repo.xarold.com.ifile
  com.repo.xarold.com.igotya
  com.repo.xarold.com.keyboardmouse
+ com.repo.xarold.com.noannoyance
  com.repo.xarold.com.protean
  com.repo.xarold.com.quickactivator
  com.repo.xarold.com.slide2kill8pro
