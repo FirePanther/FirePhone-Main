@@ -37,6 +37,7 @@
  com.ericasadun.utilities
  com.evilgoldfish.shazamonstart
  com.fortysixandtwo.alkaline
+ com.hackyouriphone.adiutor
  com.hackyouriphone.audiorecorder
  com.hackyouriphone.btc-mouse
  com.hackyouriphone.colorbadges
@@ -68,6 +69,8 @@
  com.phillipt.callconnect
  com.pugliagianluca.fmfnotifier
  com.repo.xarold.com.activatoraddon
+ com.repo.xarold.com.adiutor
+ com.repo.xarold.com.assistantplus
  com.repo.xarold.com.basicaddonforbeekeyboard
  com.repo.xarold.com.beekeyboard
  com.repo.xarold.com.betterfivecolumnhomescreen
@@ -83,6 +86,7 @@
  com.repo.xarold.com.infinidock
  com.repo.xarold.com.keyboardmouse
  com.repo.xarold.com.noannoyance
+ com.repo.xarold.com.profluence
  com.repo.xarold.com.protean
  com.repo.xarold.com.quickactivator
  com.repo.xarold.com.slide2kill8pro
@@ -268,6 +272,7 @@
  preferenceloader
  profile.d
  readline
+ repo.biteyourapple.net.adiutor
  repo.biteyourapple.net.betterwifi7
  repo.biteyourapple.net.byarepoicons
  repo.biteyourapple.net.cloaky
