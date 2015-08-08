@@ -16,10 +16,15 @@
  ch.ringwald.hidsupport
  com.a3tweaks.flipswitch
  com.accuratweaks.common
+ com.alltim3h4ckers.safarienhancer
+ com.bd452.bypass
+ com.bd452.libpass
+ com.blackfacility.pulltorefreshsafari
  com.booleanmagic.displayrecorder
  com.bytafont.bytafont2
  com.bytafont2.roboto
  com.bytafont2.robotolight
+ com.chpwn.iconsupport
  com.chpwn.weeloader
  com.cpdigitaldarkroom.cornered
  com.cpdigitaldarkroom.hideme8-lite
@@ -44,6 +49,8 @@
  com.hackyouriphone.notificator
  com.hackyouriphone.powersaver
  com.hackyouriphone.reachapp
+ com.hackyouriphone.superrecorder
+ com.iadam1n.musicrotate
  com.iforgottonamethis.nomoreseparators
  com.imokhles.whatsappwebenabler
  com.innoying.sbutils
@@ -63,14 +70,17 @@
  com.repo.xarold.com.activatoraddon
  com.repo.xarold.com.basicaddonforbeekeyboard
  com.repo.xarold.com.beekeyboard
+ com.repo.xarold.com.betterfivecolumnhomescreen
  com.repo.xarold.com.classicfolders
  com.repo.xarold.com.eclipse2
  com.repo.xarold.com.exkey
+ com.repo.xarold.com.fiveicondockforios7
  com.repo.xarold.com.harbor
  com.repo.xarold.com.hideme8
  com.repo.xarold.com.icleanerpro
  com.repo.xarold.com.ifile
  com.repo.xarold.com.igotya
+ com.repo.xarold.com.infinidock
  com.repo.xarold.com.keyboardmouse
  com.repo.xarold.com.noannoyance
  com.repo.xarold.com.protean
@@ -84,9 +94,11 @@
  com.rpetrich.iconrenamer
  com.rpetrich.pulltodismiss
  com.rpetrich.rocketbootstrap
+ com.rpetrich.voicememotoggle
  com.samstone.translucentcydia
  com.saurik.patcyh
  com.saurik.substrate.safemode
+ com.sharedroutine.safarirefresh
  com.sirifl0w.swipeaway
  com.weishi.fmfipspoofer
  com.weishi.fmflocationfix
@@ -231,6 +243,7 @@
  openssh
  openssl
  org.coolstar.classicfolders
+ org.hacx.hacxdaemon
  org.herf.flux
  org.rdharris.activatecommand
  org.thebigboss.actif

@@ -2,13 +2,14 @@ deb http://apt.saurik.com/ ios/1145.15 main
 deb http://cydia.iphonecake.com/ ./
 deb http://cydia.myrepospace.com/reeiiko/ ./
 deb http://elijahandandrew.com/repo/ ./
+deb http://rpetri.ch/repo/ ./
 deb http://cydia.zodttd.com/repo/cydia/ stable main
 deb http://ios-webstack.tk/cydia/ ./
 deb http://repo.biteyourapple.net/ ./
 deb http://dbk1ng.github.io/ ./
-deb http://system.in-appstore.com/repo/ ./
 deb http://cydia.myrepospace.com/urus/ ./
 deb http://repo.hackyouriphone.org/ ./
+deb http://system.in-appstore.com/repo/ ./
 deb http://repo.alexzielenski.com/ ./
 deb http://cydia.angelxwind.net/beta/ ./
 deb http://cydia.ianburns.co/ ./
