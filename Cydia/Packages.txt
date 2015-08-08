@@ -61,6 +61,7 @@
  com.kaelanduck.wot
  com.ludvigeriksson.statusbartimer
  com.marcosinghof.noslowanimations
+ com.modmyi.livebatteryindicatorios7
  com.modmyi.minimalios8
  com.modmyi.semicircularforalkaline
  com.modmyi.tabless
@@ -77,6 +78,7 @@
  com.repo.xarold.com.betterfivecolumnhomescreen
  com.repo.xarold.com.betterfiveicondock
  com.repo.xarold.com.classicfolders
+ com.repo.xarold.com.dimmer
  com.repo.xarold.com.eclipse2
  com.repo.xarold.com.exkey
  com.repo.xarold.com.fiveicondockforios7
