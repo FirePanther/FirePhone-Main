@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# dependency: sbutils, activator
+# dependency: sbutils, activator, noslowanimation
 
 # launch some apps in the night to sync some stuff
 
@@ -22,20 +22,17 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 			
 			# if charging
 			if [ "$(sbdevice -s)" == "Charging" ]; then
-				if [ "$locked" == "1" ]; then activator send com.bd452.bypass && sleep 1.5; fi
-				sblaunch com.google.photos
-				sleep 1.5
-				sblaunch com.reederapp.rkit2.ios
-				sleep 1.5
-				sblaunch com.omnigroup.OmniFocus2.iPhone
-				sleep 1.5
-				sblaunch com.ifttt.ifttt
-				sleep 1.5
-				sblaunch ph.telegra.Telegraph
+				if [ "$locked" == "1" ]; then activator send com.bd452.bypass && sleep 1; fi
+				
+				sblaunch com.google.photos && sleep 1.5
+				sblaunch com.reederapp.rkit2.ios && sleep 1.5
+				sblaunch ph.telegra.Telegraph && sleep 1.5
+				sblaunch com.atebits.Tweetie2 && sleep 4
 				
 				if [ "$firetime" == "1" ]; then
-					sleep 1.5
 					sblaunch pro.firepanther.FireTime
+				else
+					activator send libactivator.system.homebutton
 				fi
 				date +%s > /tmp/last-launch.txt
 			fi
