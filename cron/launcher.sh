@@ -24,16 +24,19 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 			if [ "$(sbdevice -s)" == "Charging" ]; then
 				if [ "$locked" == "1" ]; then activator send com.bd452.bypass && sleep 1.5; fi
 				sblaunch com.google.photos
-				sleep 1
+				sleep 1.5
 				sblaunch com.reederapp.rkit2.ios
-				sleep 1
+				sleep 1.5
 				sblaunch com.omnigroup.OmniFocus2.iPhone
-				sleep 1
+				sleep 1.5
 				sblaunch com.ifttt.ifttt
-				sleep 1
+				sleep 1.5
 				sblaunch ph.telegra.Telegraph
-				sleep 1
-				sblaunch pro.firepanther.FireTime
+				
+				if [ "$firetime" == "1" ]; then
+					sleep 1.5
+					sblaunch pro.firepanther.FireTime
+				fi
 				date +%s > /tmp/last-launch.txt
 			fi
 		fi
