@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# dependency: sbutils
+# dependency: sbutils, activator
 
 # launch some apps in the night to sync some stuff
 
