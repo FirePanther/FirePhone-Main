@@ -42,10 +42,7 @@ alias s='ssh -l root'
 alias myip="ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'"
 
 alias gpush='git push origin master'
-alias gpull='git pull origin master'
-
-# firecloud get
-alias fcget='/User/Documents/FireCloud/cron/sync.sh'
+alias gpull='git pull origin master && chmod -R +x /User/Documents/FireCloud/event/ && chmod -R +x /User/Documents/FireCloud/cron/'
 
 # reload bash
 alias rlb='. /User/Documents/FireCloud/Sync/bash_profile.sh'
