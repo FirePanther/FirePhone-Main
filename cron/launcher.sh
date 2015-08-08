@@ -6,7 +6,7 @@
 
 currentMode=$(activator current-mode)
 
-if [ "$currentMode" == "lockscreen" ]; then lockedBefore=1 && activator send com.bd452.bypass && sleep 1.5; fi
+if [ "$currentMode" == "lockscreen" ]; then locked=1; fi
 
 # if between 2 and 6 am
 if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
@@ -22,6 +22,7 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 			
 			# if charging
 			if [ "$(sbdevice -s)" == "Charging" ]; then
+				if [ "$locked" == "1" ]; then activator send com.bd452.bypass && sleep 1.5; fi
 				sblaunch com.google.photos
 				sleep 1
 				sblaunch com.reederapp.rkit2.ios
@@ -39,4 +40,4 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 	fi
 fi
 
-if [ "$lockedBefore" == "1" ]; then activator send libactivator.system.sleepbutton; fi
+if [ "$locked" == "1" ]; then activator send libactivator.system.sleepbutton; fi
