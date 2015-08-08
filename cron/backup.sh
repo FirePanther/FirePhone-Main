@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# dependency: git
+
 cd /User/Documents/FireCloud/Cydia
 
 # cydia packages

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# dependency: sbutils, wget
+
 # this script sends the battery status to the server
 
 # battery
