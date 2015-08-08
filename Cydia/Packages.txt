@@ -45,6 +45,7 @@
  com.hackyouriphone.eclipse2
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
+ com.hackyouriphone.littlebrother
  com.hackyouriphone.livebatteryindicator
  com.hackyouriphone.multiclips8
  com.hackyouriphone.notificator
@@ -74,6 +75,7 @@
  com.repo.xarold.com.basicaddonforbeekeyboard
  com.repo.xarold.com.beekeyboard
  com.repo.xarold.com.betterfivecolumnhomescreen
+ com.repo.xarold.com.betterfiveicondock
  com.repo.xarold.com.classicfolders
  com.repo.xarold.com.eclipse2
  com.repo.xarold.com.exkey
