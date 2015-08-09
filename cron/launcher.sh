@@ -16,11 +16,11 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 	if [ "$firetime" == "1" ] || [ "$currentMode" != "application" ]; then
 		
 		# if last run older than 14 hours
-		if [ ! -f /tmp/last-launch.txt ] || [ "$(cat /tmp/last-launch.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
+		if [ ! -f /tmp/_fp-last-launch.txt ] || [ "$(cat /tmp/_fp-last-launch.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
 			
 			# if charging
 			if [ "$(sbdevice -s)" == "Charging" ]; then
-				. /firephone/event/unlock.sh
+				/firephone/event/unlock.sh
 				
 				activator send com.google.photos && sleep 1.5
 				activator send com.reederapp.rkit2.ios && sleep 1.5
@@ -32,10 +32,10 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 				else
 					activator send libactivator.system.homebutton
 				fi
-				date +%s > /tmp/last-launch.txt
+				date +%s > /tmp/_fp-last-launch.txt
 			fi
 		fi
 	fi
 fi
 
-. /firephone/event/lock.sh
+/firephone/event/lock.sh
