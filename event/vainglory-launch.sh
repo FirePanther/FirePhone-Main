@@ -4,10 +4,10 @@
 
 record=1
 
-# wait/check 12x5 seconds (= 1 minute)
-for i in {1..12}
+# wait/check 15x3 seconds
+for i in {1..3}
 do
-	sleep 5
+	sleep 15
 	# if vainglory was closed: don't record
 	if [ "$(activator current-app)" != "com.superevilmegacorp.kindred" ]; then
 		record=0
