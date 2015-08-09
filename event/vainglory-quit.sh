@@ -10,4 +10,4 @@ fi
 
 # finish recording and offer rename
 activator send switch-off.com.rpetrich.displayrecorder
-. /User/Documents/FireCloud/event/recorded.sh
+/firephone/event/recorded.sh

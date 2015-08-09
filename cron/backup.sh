@@ -2,7 +2,7 @@
 
 # dependency: git
 
-cd /User/Documents/FireCloud/Cydia
+cd /firephone/Cydia
 
 # cydia packages
 cat /var/lib/dpkg/status | grep Package: | awk -F: '{print $2}' | sort > Packages.txt

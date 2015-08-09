@@ -41,20 +41,20 @@ alias s='ssh -l root'
 alias myip="ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'"
 
 alias gpush='git push origin master'
-alias gpull='git pull origin master && chmod -R +x /User/Documents/FireCloud/event/ && chmod -R +x /User/Documents/FireCloud/cron/'
+alias gpull='git pull origin master && chmod -R +x /firephone/event/ && chmod -R +x /firephone/cron/'
 
 # reload bash
-alias rlb='. /User/Documents/FireCloud/Sync/bash_profile.sh'
+alias rlb='. /firephone/Sync/bash_profile.sh'
 
-. /User/Documents/FireCloud/Sync/inc/ssh.sh
-. /User/Documents/FireCloud/Sync/inc/lctl.sh
+. /firephone/Sync/inc/ssh.sh
+. /firephone/Sync/inc/lctl.sh
 
 # play sound
-{ sleep .1 && play /User/Documents/FireCloud/Sync/audio/ssh-connected.aiff& disown; } 2>/dev/null
+{ sleep .1 && play /firephone/Sync/audio/ssh-connected.aiff& disown; } 2>/dev/null
 
 # change dir aliasses
 alias cld='cd /Library/LaunchDaemons'
-alias cfc='cd /User/Documents/FireCloud'
+alias cfc='cd /firephone'
 alias capp='cd /var/mobile/Containers/Bundle/Application'
 
 echo -e "\033[1;33m iOS version:     \033[0m" `sw_vers -productVersion`

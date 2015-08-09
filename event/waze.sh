@@ -2,4 +2,4 @@
 
 # dependency: activator, bypass, noslowanimations
 
-activator send com.bd452.bypass && sleep 1 && sblaunch com.waze.iphone
+. /firephone/event/unlock.sh && activator send com.waze.iphone
