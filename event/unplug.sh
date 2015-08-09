@@ -2,7 +2,7 @@
 
 if [ "$(activator current-app)" == "pro.firepanther.FireTime" ]; then
 	killall FireTime
-	activator send libactivator.system.sleepbutton
+	/firephone/event/lock.sh
 fi
 
 activator send switch-on.com.a3tweaks.switch.autolock
