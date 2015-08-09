@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# dependency: activator
+# dependency: activator, displayrecorder
 
 # only turn off dnd if it's between 7 and 0 o'clock
 hour=$(date +%H)

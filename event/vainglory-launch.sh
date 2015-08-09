@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# dependency: activator
+# dependency: activator, displayrecorder
 
 record=1
 
-# wait/check 15x3 seconds
+# wait/check 15x3 seconds (if vainglory was launched by accident)
 for i in {1..3}
 do
 	sleep 15
