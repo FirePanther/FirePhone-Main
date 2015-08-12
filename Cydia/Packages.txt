@@ -66,6 +66,7 @@
  com.modmyi.semicircularforalkaline
  com.modmyi.tabless
  com.myrepospace.reeiiko.lbi7
+ com.nopperssoftware.pushforgmail
  com.officialscheduler.mterminal
  com.oranav.mapsenhancer
  com.phillipt.callconnect
