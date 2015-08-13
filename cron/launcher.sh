@@ -6,7 +6,7 @@
 
 currentMode=$(activator current-mode)
 
-# if between 2 and 6 am
+# if between 0 and 11 am
 if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 
 	# if FireTime app is running
