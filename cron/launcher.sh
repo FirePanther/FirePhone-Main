@@ -13,7 +13,7 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 	if [ "$(activator current-app)" == "pro.firepanther.FireTime" ]; then firetime=1; fi
 	
 	# if not in an (important) app (like vainglory :D)
-	if [ "$firetime" == "1" ] || [ "$currentMode" != "application" ]; then
+	if [ "$firetime" == "1" ] || [ "$currentMode" == "lockscreen" ]; then
 		
 		# if last run older than 14 hours
 		if [ ! -f /tmp/_fp-last-launch.txt ] || [ "$(cat /tmp/_fp-last-launch.txt)" -lt "$(expr $(date +%s) - 3600 \* 12)" ]; then
