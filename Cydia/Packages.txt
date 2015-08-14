@@ -40,11 +40,13 @@
  com.hackyouriphone.adiutor
  com.hackyouriphone.audiorecorder
  com.hackyouriphone.btc-mouse
+ com.hackyouriphone.cameratweak3
  com.hackyouriphone.colorbadges
  com.hackyouriphone.datameter
  com.hackyouriphone.eclipse2
  com.hackyouriphone.harbor
  com.hackyouriphone.iconrepo
+ com.hackyouriphone.keyboardplus8
  com.hackyouriphone.littlebrother
  com.hackyouriphone.livebatteryindicator
  com.hackyouriphone.multiclips8
@@ -65,6 +67,7 @@
  com.modmyi.minimalios8
  com.modmyi.semicircularforalkaline
  com.modmyi.tabless
+ com.mohammadag.multiplereturntosender
  com.myrepospace.reeiiko.lbi7
  com.nopperssoftware.pushforgmail
  com.officialscheduler.mterminal
@@ -78,6 +81,7 @@
  com.repo.xarold.com.beekeyboard
  com.repo.xarold.com.betterfivecolumnhomescreen
  com.repo.xarold.com.betterfiveicondock
+ com.repo.xarold.com.cameratweak3
  com.repo.xarold.com.classicfolders
  com.repo.xarold.com.dimmer
  com.repo.xarold.com.eclipse2
@@ -258,6 +262,7 @@
  org.thebigboss.actif
  org.thebigboss.camblur7
  org.thebigboss.cameramodes
+ org.thebigboss.cameratweak3
  org.thebigboss.dismissprogress
  org.thebigboss.eclipse2
  org.thebigboss.fastloading
@@ -300,4 +305,5 @@
  winterboard
  ws.hbang.codling
  ws.hbang.common
+ ws.hbang.repower
  zip
