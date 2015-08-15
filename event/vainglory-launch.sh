@@ -5,7 +5,7 @@
 # include_once
 declare -f log > /dev/null; if [ "$?" == "1" ]; then . /firephone/Sync/inc/log.sh; fi
 
-log launched vainglory
+log "launched vainglory"
 
 record=1
 
@@ -15,14 +15,14 @@ do
 	sleep 15
 	# if vainglory was closed: don't record
 	if [ "$(activator current-app)" != "com.superevilmegacorp.kindred" ]; then
-		log vainglory quitted
+		log "vainglory quitted"
 		record=0
 		break
 	fi
 done
 
 if [ "$record" == "1" ]; then
-	log recording vainglory, switch on dnd + displayrecorder
+	log "recording vainglory, switch on dnd + displayrecorder"
 	activator send switch-on.com.a3tweaks.switch.do-not-disturb
 	activator send switch-on.com.rpetrich.displayrecorder
 fi
