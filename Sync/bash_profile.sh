@@ -3,6 +3,7 @@ export PS1='\[\033[01;34m\]\w
 umask 022
 
 alias hlp="echo \"- FirePanther Help -
+log                 Logs some information
 myip                Shows your local ip
 ll                  ls -hl
 l                   ls -hlA
@@ -45,6 +46,12 @@ alias gpull='git pull origin master && chmod -R +x /firephone/event/ && chmod -R
 
 # reload bash
 alias rlb='. /firephone/Sync/bash_profile.sh'
+
+log() {
+	mkdir /firephone/log
+	date=$(date +%Y-%m-%d_%H.%M)
+	printf "$0\nPWD: $PWD\n\n$1" > "/firephone/log/$(basename ${0%.*}) - $date.log"
+}
 
 . /firephone/Sync/inc/ssh.sh
 . /firephone/Sync/inc/lctl.sh
