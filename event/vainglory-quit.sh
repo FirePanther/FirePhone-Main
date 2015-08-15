@@ -2,6 +2,9 @@
 
 # dependency: activator, displayrecorder
 
+# include_once
+declare -f log > /dev/null; if [ "$?" == "1" ]; then . /firephone/Sync/inc/log.sh; fi
+
 log quitted vainglory
 
 # only turn off dnd if it's between 7 and 0 o'clock
