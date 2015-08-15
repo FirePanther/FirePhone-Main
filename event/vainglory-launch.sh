@@ -18,10 +18,10 @@ failed="Activator: Failed"
 app=$failed
 while [[ "$app" == *"$failed"* ]]; do
 	sleep 1
-	app=$(activator current-app 2>%1)
+	app=$(activator current-app)
 done
 if [ "$app" != "com.superevilmegacorp.kindred" ]; then
-	log "vainglory quitted, current app: $app / $(activator current-app) / $(activator current-app 2>%1)"
+	log "vainglory quitted, current app: $app"
 	record=0
 fi
 
