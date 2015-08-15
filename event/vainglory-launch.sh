@@ -22,7 +22,8 @@ do
 done
 
 if [ "$record" == "1" ]; then
-	log "recording vainglory, switch on dnd + displayrecorder"
+	log "recording vainglory, switch on dnd + displayrecorder + autolock"
 	activator send switch-on.com.a3tweaks.switch.do-not-disturb
 	activator send switch-on.com.rpetrich.displayrecorder
+	activator send switch-off.com.a3tweaks.switch.autolock
 fi

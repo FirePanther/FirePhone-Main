@@ -16,6 +16,7 @@ if [ $hour -gt 6 ]; then
 fi
 
 # finish recording and offer rename
-log "switch off displayrecorder"
+log "switch off displayrecorder, switch on autolock again"
 activator send switch-off.com.rpetrich.displayrecorder
+activator send switch-on.com.a3tweaks.switch.autolock
 /firephone/event/recorded.sh
