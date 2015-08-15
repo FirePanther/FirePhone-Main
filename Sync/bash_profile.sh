@@ -47,14 +47,9 @@ alias gpull='git pull origin master && chmod -R +x /firephone/event/ && chmod -R
 # reload bash
 alias rlb='. /firephone/Sync/bash_profile.sh'
 
-log() {
-	mkdir /firephone/log
-	date=$(date +%Y-%m-%d_%H.%M)
-	printf "$0\nPWD: $PWD\n\n$1" > "/firephone/log/$(basename ${0%.*}) - $date.log"
-}
-
 . /firephone/Sync/inc/ssh.sh
 . /firephone/Sync/inc/lctl.sh
+. /firephone/Sync/inc/log.sh
 
 # play sound
 { sleep .1 && play /firephone/Sync/audio/ssh-connected.aiff& disown; } 2>/dev/null
