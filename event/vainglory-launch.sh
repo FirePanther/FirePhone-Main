@@ -9,10 +9,10 @@ log "launched vainglory"
 
 record=1
 
-# wait/check 15x3 seconds (if vainglory was launched by accident)
+# wait/check 10x3 seconds (if vainglory was launched by accident)
 for i in {1..3}
 do
-	sleep 1
+	sleep 10
 	# if vainglory was closed: don't record
 	if [ "$(activator current-app)" != "com.superevilmegacorp.kindred" ]; then
 		log "vainglory quitted"
