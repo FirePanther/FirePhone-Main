@@ -10,7 +10,7 @@ log "launched vainglory"
 record=1
 
 # wait/check 30 seconds (if vainglory was launched by accident)
-sleep 30
+sleep 3
 # if vainglory was closed: don't record
 
 # sometimes current-app throws an error
@@ -21,7 +21,7 @@ while [[ "$app" == *"$failed"* ]]; do
 	app=$(activator current-app 2>%1)
 done
 if [ "$app" != "com.superevilmegacorp.kindred" ]; then
-	log "vainglory quitted"
+	log "vainglory quitted, current app: $app"
 	record=0
 fi
 
