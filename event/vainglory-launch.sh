@@ -10,7 +10,7 @@ log "launched vainglory"
 record=1
 
 # wait/check 30 seconds (if vainglory was launched by accident)
-sleep 3
+sleep 30
 # if vainglory was closed: don't record
 
 # sometimes current-app throws an error
