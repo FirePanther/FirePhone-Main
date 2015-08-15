@@ -21,7 +21,7 @@ while [[ "$app" == *"$failed"* ]]; do
 	app=$(activator current-app 2>%1)
 done
 if [ "$app" != "com.superevilmegacorp.kindred" ]; then
-	log "vainglory quitted, current app: $app"
+	log "vainglory quitted, current app: $app / $(activator current-app) / $(activator current-app 2>%1)"
 	record=0
 fi
 
