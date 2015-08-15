@@ -15,10 +15,10 @@ sleep 30
 
 # sometimes current-app throws an error
 failed="Activator: Failed"
-app=failed
+app=$failed
 while [[ "$app" == *"$failed"* ]]; do
 	sleep 1
-	app=$(activator current-app 2>&1)
+	app=$(activator current-app 2>%1)
 done
 if [ "$app" != "com.superevilmegacorp.kindred" ]; then
 	log "vainglory quitted"
