@@ -74,6 +74,7 @@
  com.oranav.mapsenhancer
  com.phillipt.callconnect
  com.pugliagianluca.fmfnotifier
+ com.ragingninja.otabegone
  com.repo.xarold.com.activatoraddon
  com.repo.xarold.com.adiutor
  com.repo.xarold.com.assistantplus
