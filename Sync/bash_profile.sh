@@ -11,7 +11,7 @@ s                   ssh as root
 .., ...             One or two dirs up
 rlb                 Reaload bash_profile
 gpush               git push origin master
-gpull               git pull origin master
+gpull               git pull --rebase origin master
 
 - SSH -
 sshl                Load ssh daemon
@@ -42,7 +42,7 @@ alias s='ssh -l root'
 alias myip="ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'"
 
 alias gpush='git push origin master'
-alias gpull='git pull origin master && chmod -R +x /firephone/event/ && chmod -R +x /firephone/cron/'
+alias gpull='git pull --rebase origin master && chmod -R +x /firephone/event/ && chmod -R +x /firephone/cron/'
 
 # reload bash
 alias rlb='. /firephone/Sync/bash_profile.sh'
