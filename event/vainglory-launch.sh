@@ -14,20 +14,25 @@ sleep 30
 # if vainglory was closed: don't record
 
 # sometimes current-app throws an error
-failed="Activator: Failed"
-app=$failed
-while [[ "$app" == *"$failed"* ]]; do
+try=5
+app=""
+while [[ "$app" == *"Activator: Failed"* ]] || [ "$app" == "" ]; do
 	sleep 1
 	app=$(activator current-app)
+	((try--))
+	if [ "$try" -lt "1" ]; then break; fi
 done
 if [ "$app" != "com.superevilmegacorp.kindred" ]; then
-	log "vainglory quitted, current app: $app"
+	log "vainglory quitted, current app: '$app'"
 	record=0
 fi
 
 if [ "$record" == "1" ]; then
 	log "recording vainglory, switch on dnd + displayrecorder + autolock"
-	activator send switch-on.com.a3tweaks.switch.do-not-disturb
-	activator send switch-off.com.a3tweaks.switch.autolock
-	activator send switch-on.com.rpetrich.displayrecorder
+	{
+		echo ">>> other outputs\n"
+		activator send switch-on.com.a3tweaks.switch.do-not-disturb
+		activator send switch-off.com.a3tweaks.switch.autolock
+		activator send switch-on.com.rpetrich.displayrecorder
+	} >> "$(logfile)"
 fi
