@@ -291,6 +291,7 @@
  repo.biteyourapple.net.eclipse2
  repo.biteyourapple.net.iap
  repo.biteyourapple.net.iapcrackios7
+ repo.biteyourapple.net.keyboardplus8
  repo.biteyourapple.net.prowidgets
  repo.biteyourapple.net.qrmode
  sed
