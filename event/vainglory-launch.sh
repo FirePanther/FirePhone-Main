@@ -30,9 +30,9 @@ fi
 if [ "$record" == "1" ]; then
 	log "recording vainglory, switch on dnd + displayrecorder + autolock"
 	{
-		echo ">>> other outputs\n"
-		activator send switch-on.com.a3tweaks.switch.do-not-disturb
-		activator send switch-off.com.a3tweaks.switch.autolock
-		activator send switch-on.com.rpetrich.displayrecorder
+		echo ">>> other outputs:"
+		activator send switch-on.com.a3tweaks.switch.do-not-disturb 2>&1
+		activator send switch-off.com.a3tweaks.switch.autolock 2>&1
+		activator send switch-on.com.rpetrich.displayrecorder 2>&1
 	} >> "$(logfile)"
 fi

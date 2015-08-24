@@ -18,8 +18,8 @@ fi
 # finish recording and offer rename
 log "switch off displayrecorder, switch on autolock again"
 {
-	echo ">>> other outputs\n"
-	activator send switch-off.com.rpetrich.displayrecorder
-	activator send switch-on.com.a3tweaks.switch.autolock
+	echo ">>> other outputs:"
+	activator send switch-off.com.rpetrich.displayrecorder 2>&1
+	activator send switch-on.com.a3tweaks.switch.autolock 2>&1
 	/firephone/event/recorded.sh
 } >> "$(logfile)"
