@@ -1,2 +1,2 @@
 #!/bin/bash
-deviceinfoPassword=2918
+deviceinfoPassword=981365896
