@@ -32,7 +32,7 @@ if [ "$record" == "1" ]; then
 	{
 		echo ">>> other outputs:"
 		activator send switch-on.com.a3tweaks.switch.do-not-disturb 2>&1
-		activator send switch-off.com.a3tweaks.switch.autolock 2>&1
+		sleep 3
 		activator send switch-on.com.rpetrich.displayrecorder 2>&1
 	} >> "$(logfile)"
 fi
