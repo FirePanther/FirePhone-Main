@@ -11,7 +11,11 @@ log "quitted vainglory"
 log "switch off displayrecorder, switch on autolock again"
 {
 	echo ">>> other outputs:"
+	# try two times, sometimes it fails
 	activator send switch-off.com.rpetrich.displayrecorder 2>&1
+	sleep 1
+	activator send switch-off.com.rpetrich.displayrecorder 2>&1
+	
 	/firephone/event/recorded.sh
 } >> "$(logfile)"
 
