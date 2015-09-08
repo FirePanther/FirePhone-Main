@@ -7,7 +7,7 @@ log() {
 
 logfile() {
 	if [ ! -d /firephone/log ]; then mkdir /firephone/log; fi
-	index=$(($(date +%-d) + $(date +%-m) * 12))
+	index=$(($(date +%-d) + $(date +%-m) * 31))
 	time=$(date +%H.%M)
 	logfile="/firephone/log/${index}_${time} - $(basename /${0%.*}).log"
 	echo $logfile
