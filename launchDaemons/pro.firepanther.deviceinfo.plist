@@ -6,7 +6,7 @@
 		<string>pro.firepanther.deviceinfo</string>
 		<key>ProgramArguments</key>
 		<array>
-			<string>/User/Documents/FireCloud/cron/deviceinfo.sh</string>
+			<string>/firephone/cron/deviceinfo.sh</string>
 		</array>
 		<key>Nice</key>
 		<integer>20</integer>

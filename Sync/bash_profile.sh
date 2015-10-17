@@ -1,3 +1,6 @@
+# installation:
+# echo ". /firephone/Sync/bash_profile.sh" > /etc/profile.d/firephone.sh
+
 export PS1='\[\033[01;34m\]\w
 \[\033[01;31m\]\u $ \[\033[00m\]'
 umask 022
@@ -28,7 +31,6 @@ lctl install x      Install a new LaunchDaemon
 
 - CD -
 cld                 Goto LaunchDaemons
-cfc                 Goto FireCloud
 capp                Goto (Bundle) Application
 \""
 
@@ -56,7 +58,7 @@ alias rlb='. /firephone/Sync/bash_profile.sh'
 
 # change dir aliasses
 alias cld='cd /Library/LaunchDaemons'
-alias cfc='cd /firephone'
+alias cfp='cd /firephone'
 alias capp='cd /var/mobile/Containers/Bundle/Application'
 
 echo -e "\033[1;33m iOS version:     \033[0m" `sw_vers -productVersion`

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# dependency: git
+# dependency: git, awk (gawk)
 
 cd /firephone/Cydia
 

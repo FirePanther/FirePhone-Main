@@ -35,7 +35,7 @@ _findplistlocation() {
 	if [ -f "$1" ]; then echo "$1"
 	elif [ -f "$1.plist" ]; then echo "$1.plist"
 	elif [ -f "pro.firepanther.$1.plist" ]; then echo "pro.firepanther.$1.plist"
-	# search in FireCloud launchDaemons
+	# search in FirePhone launchDaemons
 	elif [ -f "/firephone/launchDaemons/$1" ]; then echo "/firephone/launchDaemons/$1"
 	elif [ -f "/firephone/launchDaemons/$1.plist" ]; then echo "/firephone/launchDaemons/$1.plist"
 	elif [ -f "/firephone/launchDaemons/pro.firepanther.$1.plist" ]; then echo "/firephone/launchDaemons/pro.firepanther.$1.plist"

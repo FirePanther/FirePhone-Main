@@ -6,7 +6,7 @@
 		<string>pro.firepanther.launcher</string>
 		<key>ProgramArguments</key>
 		<array>
-			<string>/User/Documents/FireCloud/cron/launcher.sh</string>
+			<string>/firephone/cron/launcher.sh</string>
 		</array>
 		<key>Nice</key>
 		<integer>20</integer>
