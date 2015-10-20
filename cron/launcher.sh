@@ -23,9 +23,12 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 				/firephone/event/unlock.sh
 				
 				activator send com.google.photos && sleep 1.5
+				activator send com.getdropbox.Carousel && sleep 3
+				
 				activator send com.reederapp.rkit2.ios && sleep 1.5
 				activator send ph.telegra.Telegraph && sleep 1.5
-				activator send com.atebits.Tweetie2 && sleep 4
+				#activator send com.atebits.Tweetie2 && sleep 4
+				activator send com.tapbots.Tweetbot4 && sleep 4
 				
 				if [ "$firetime" == "1" ]; then
 					activator send pro.firepanther.FireTime
