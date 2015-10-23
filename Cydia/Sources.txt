@@ -17,6 +17,5 @@ deb http://apt.modmyi.com/ stable main
 deb http://repo666.ultrasn0w.com/ ./
 deb http://repo.ioscreatix.com/ ./
 deb http://system.in-appstore.com/repo/ ./
-deb http://sinfuliphonerepo.com/ ./
 deb http://repo.biteyourapple.net/ ./
 deb http://cydia.zodttd.com/repo/cydia/ stable main
