@@ -1,8 +1,9 @@
 deb http://apt.saurik.com/ ios/1240.10 main
-deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb https://evilgoldfish.github.io/repo/ ./
 deb http://apt.mobcrush.com/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
 deb http://repo.xarold.com/ ./
+deb http://apt.thebigboss.org/repofiles/cydia/ stable main
 deb http://dbk1ng.github.io/ ./
 deb http://apt.youyuanapp.com/ ./
 deb http://julio.xarold.com/ ./
