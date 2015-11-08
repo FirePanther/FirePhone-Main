@@ -15,6 +15,7 @@ deb http://repo.alexzielenski.com/ ./
 deb http://repo.hackyouriphone.org/ ./
 deb http://poomsmart.github.io/repo/ ./
 deb http://rpetri.ch/repo/ ./
+deb http://limneos.net/repo/ ./
 deb http://apt.modmyi.com/ stable main
 deb http://repo666.ultrasn0w.com/ ./
 deb http://system.in-appstore.com/repo/ ./
