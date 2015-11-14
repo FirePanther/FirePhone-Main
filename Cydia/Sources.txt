@@ -5,6 +5,7 @@ deb http://repo.cpdigitaldarkroom.com/ ./
 deb http://repo.xarold.com/ ./
 deb http://apt.thebigboss.org/repofiles/cydia/ stable main
 deb http://dbk1ng.github.io/ ./
+deb http://cydia.fay.io/ ./
 deb http://apt.youyuanapp.com/ ./
 deb http://julio.xarold.com/ ./
 deb http://justgetflux.com/cydia/ ./
