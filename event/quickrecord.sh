@@ -1,3 +1,3 @@
 #!/bin/bash
-. unlock.sh
+/firephone/event/unlock.sh
 open com.findingfocus.Simple-Video-Free
