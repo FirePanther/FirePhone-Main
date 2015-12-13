@@ -3,7 +3,7 @@
 # dependency: sbutils, wget
 
 # this script sends the battery status to the server
-. /firephone/Sync/inc/deviceinfoPassword.sh
+. /deviceinfoPassword.sh
 
 # battery
 sleep 1
