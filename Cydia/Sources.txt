@@ -18,7 +18,6 @@ deb http://poomsmart.github.io/repo/ ./
 deb http://rpetri.ch/repo/ ./
 deb http://limneos.net/repo/ ./
 deb http://apt.modmyi.com/ stable main
-deb http://repo666.ultrasn0w.com/ ./
 deb http://system.in-appstore.com/repo/ ./
 deb http://repo.ioscreatix.com/ ./
 deb http://repo.biteyourapple.net/ ./
