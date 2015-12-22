@@ -7,7 +7,6 @@ deb http://repo.biteyourapple.net/ ./
 deb http://repo.hackyouriphone.org/ ./
 deb http://tateu.net/repo/ ./
 deb https://ib-soft.net/cydia/ ./
-deb http://repo.insanelyi.com/ ./
 deb http://repo.xarold.com/ ./
 deb http://apt.modmyi.com/ stable main
 deb http://apt.thebigboss.org/repofiles/cydia/ stable main
