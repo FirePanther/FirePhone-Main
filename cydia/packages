@@ -49,6 +49,7 @@
  com.rpetrich.rocketbootstrap
  com.saurik.patcyh
  com.saurik.substrate.safemode
+ com.thomasfinch.priorityhub
  coreutils
  coreutils-bin
  crash-reporter
