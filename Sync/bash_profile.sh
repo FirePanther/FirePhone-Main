@@ -54,7 +54,7 @@ alias rlb='. /firephone/Sync/bash_profile.sh'
 . /firephone/Sync/inc/log.sh
 
 # play sound
-{ sleep .1 && play /firephone/sounds/Submarine.aff& disown; } 2>/dev/null
+{ sleep .1 && play /firephone/sounds/Submarine.aiff& disown; } 2>/dev/null
 
 # change dir aliasses
 alias cld='cd /Library/LaunchDaemons'
