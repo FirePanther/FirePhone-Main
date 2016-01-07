@@ -22,8 +22,8 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 			if [ "$(sbdevice -s)" == "Charging" ]; then
 				/firephone/event/unlock.sh
 				
-				activator send com.google.photos && sleep 1.5
-				activator send com.getdropbox.Carousel && sleep 3
+				#activator send com.google.photos && sleep 1.5
+				#activator send com.getdropbox.Carousel && sleep 3
 				
 				activator send com.reederapp.rkit2.ios && sleep 1.5
 				activator send ph.telegra.Telegraph && sleep 1.5

@@ -1,3 +1,3 @@
 #!/bin/bash
-. /firephone/Sync/inc/ssh.sh
+. /firephone/main/inc/ssh.sh
 sshk

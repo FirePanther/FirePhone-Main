@@ -3,7 +3,7 @@
 # dependency: activator, displayrecorder
 
 # include_once
-declare -f log > /dev/null; if [ "$?" == "1" ]; then . /firephone/Sync/inc/log.sh; fi
+declare -f log > /dev/null; if [ "$?" == "1" ]; then . /firephone/main/inc/log.sh; fi
 
 log "launched vainglory"
 

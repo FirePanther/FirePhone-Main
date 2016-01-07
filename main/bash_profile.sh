@@ -1,5 +1,5 @@
 # installation:
-# echo ". /firephone/Sync/bash_profile.sh" > /etc/profile.d/firephone.sh
+# echo ". /firephone/main/bash_profile.sh" > /etc/profile.d/firephone.sh
 
 export PS1='\[\033[01;34m\]\w
 \[\033[01;31m\]\u $ \[\033[00m\]'
@@ -47,11 +47,11 @@ alias gpush='git push origin master'
 alias gpull='git pull --rebase origin master && chmod -R +x /firephone/event/ && chmod -R +x /firephone/cron/'
 
 # reload bash
-alias rlb='. /firephone/Sync/bash_profile.sh'
+alias rlb='. /firephone/main/bash_profile.sh'
 
-. /firephone/Sync/inc/ssh.sh
-. /firephone/Sync/inc/lctl.sh
-. /firephone/Sync/inc/log.sh
+. /firephone/main/inc/ssh.sh
+. /firephone/main/inc/lctl.sh
+. /firephone/main/inc/log.sh
 
 # play sound
 { sleep .1 && play /firephone/sounds/Submarine.aiff& disown; } 2>/dev/null
