@@ -25,10 +25,12 @@
  com.faku99.goodges
  com.fuyuchi.flex2
  com.golddavid.flash
+ com.hackyouriphone.batteryusageenhancer
  com.hackyouriphone.bunny
  com.hackyouriphone.colorbadges
  com.hackyouriphone.iconrepo
  com.hackyouriphone.protean
+ com.hackyouriphone.sweetdisplay
  com.hackyouriphone.virtualhome8
  com.imokhles.revealmenu
  com.innoying.sbutils
@@ -43,6 +45,7 @@
  com.repo.xarold.com.reform
  com.repo.xarold.com.respringprogress
  com.repo.xarold.com.shortcuts
+ com.repo.xarold.com.sweetdisplay
  com.repo.xarold.com.swipeselection-pro
  com.repo.xarold.com.switchservice
  com.repo.xarold.com.upscale
@@ -50,6 +53,7 @@
  com.saurik.patcyh
  com.saurik.substrate.safemode
  com.thomasfinch.priorityhub
+ com.tweakwiz.wizlib
  coreutils
  coreutils-bin
  crash-reporter
@@ -200,6 +204,7 @@
  openssl
  org.herf.flux
  org.rdharris.activatelink
+ org.thebigboss.detailedbatteryusage
  org.thebigboss.dismissprogress
  org.thebigboss.libcolorpicker
  org.thebigboss.repo.icons
@@ -211,6 +216,7 @@
  profile.d
  readline
  repo.biteyourapple.net.byarepoicons
+ repo.biteyourapple.net.sweetdisplay
  repo.biteyourapple.net.swipeexpander
  sed
  shell-cmds
