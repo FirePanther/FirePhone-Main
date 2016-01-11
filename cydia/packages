@@ -42,6 +42,7 @@
  com.repo.xarold.com.audiorecorder
  com.repo.xarold.com.flex2
  com.repo.xarold.com.photoslive
+ com.repo.xarold.com.protean
  com.repo.xarold.com.reform
  com.repo.xarold.com.respringprogress
  com.repo.xarold.com.shortcuts
@@ -105,6 +106,7 @@
  gsc.device-class-number
  gsc.device-supports-navigation
  gsc.device-supports-simplistic-road-mesh
+ gsc.device-supports-tethering
  gsc.device-supports1080p
  gsc.device-supports3-d-imagery
  gsc.device-supports3-d-maps
@@ -217,6 +219,7 @@
  profile.d
  readline
  repo.biteyourapple.net.byarepoicons
+ repo.biteyourapple.net.protean
  repo.biteyourapple.net.sweetdisplay
  repo.biteyourapple.net.swipeexpander
  sed
