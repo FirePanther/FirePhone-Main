@@ -5,6 +5,7 @@
 # launch some apps in the night to sync some stuff
 
 currentMode=$(activator current-mode)
+firetime=0
 
 # if between 0 and 11 am
 if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
@@ -22,18 +23,15 @@ if [ "$(date +%k)" -ge 0 ] && [ "$(date +%k)" -le 11 ]; then
 			if [ "$(sbdevice -s)" == "Charging" ]; then
 				/firephone/event/unlock.sh
 				
-				#activator send com.google.photos && sleep 1.5
-				#activator send com.getdropbox.Carousel && sleep 3
-				
-				activator send com.reederapp.rkit2.ios && sleep 1.5
-				activator send ph.telegra.Telegraph && sleep 1.5
-				#activator send com.atebits.Tweetie2 && sleep 4
+				activator send com.reederapp.rkit2.ios && sleep 2
+				activator send ph.telegra.Telegraph && sleep 2
 				activator send com.tapbots.Tweetbot4 && sleep 4
+				activator send com.getdropbox.Dropbox && sleep 4
 				
 				if [ "$firetime" == "1" ]; then
-					activator send pro.firepanther.FireTime
+					activator send pro.firepanther.FireTime && sleep 2
 				else
-					activator send libactivator.system.homebutton
+					activator send libactivator.system.homebutton && sleep 1
 				fi
 				date +%s > /tmp/_fp-last-launch.txt
 			fi
