@@ -17,21 +17,28 @@
  com.bd452.bypass
  com.bd452.libpass
  com.booleanmagic.displayrecorder
+ com.bushe.lockscreengesturecleanup
  com.chpwn.iconsupport
  com.conradkramer.open
+ com.cpdigitaldarkroom.hidemex
  com.efrederickson.almpoum
  com.ericasadun.utilities
  com.exile90.icleanerpro
  com.faku99.goodges
  com.fuyuchi.flex2
  com.golddavid.flash
+ com.groovycarrot.groovyapi
+ com.groovycarrot.groovylock
  com.hackyouriphone.batteryusageenhancer
  com.hackyouriphone.bunny
  com.hackyouriphone.colorbadges
+ com.hackyouriphone.grandlsip624h
  com.hackyouriphone.iconrepo
  com.hackyouriphone.localiapstore
+ com.hackyouriphone.nudekeys
  com.hackyouriphone.protean
  com.hackyouriphone.sweetdisplay
+ com.hackyouriphone.tinygridplus
  com.hackyouriphone.virtualhome8
  com.imokhles.revealmenu
  com.innoying.sbutils
@@ -43,6 +50,8 @@
  com.repo.xarold.com.appcake2
  com.repo.xarold.com.audiorecorder
  com.repo.xarold.com.flex2
+ com.repo.xarold.com.grandlsip624h
+ com.repo.xarold.com.lockhtml4
  com.repo.xarold.com.photoslive
  com.repo.xarold.com.protean
  com.repo.xarold.com.reform
@@ -52,11 +61,15 @@
  com.repo.xarold.com.swipeselection-pro
  com.repo.xarold.com.switchservice
  com.repo.xarold.com.upscale
+ com.repo.xarold.com.veexillum
+ com.repo.xarold.com.wethr
+ com.rpetrich.littlebrother
  com.rpetrich.rocketbootstrap
  com.saurik.patcyh
  com.saurik.substrate.safemode
  com.thomasfinch.priorityhub
  com.tweakwiz.wizlib
+ com.unlimapps.uaunbox
  com.vinqon.memorycleanerpro
  coreutils
  coreutils-bin
@@ -109,7 +122,6 @@
  gsc.device-class-number
  gsc.device-supports-navigation
  gsc.device-supports-simplistic-road-mesh
- gsc.device-supports-tethering
  gsc.device-supports1080p
  gsc.device-supports3-d-imagery
  gsc.device-supports3-d-maps
@@ -190,6 +202,7 @@
  info.rpdev.betterfiveicondock
  io.pangu.fuxiqin9
  isklikas.switcherbadges
+ jp.ashikase.folderenhancer2
  jp.ashikase.libcrashreport
  jp.ashikase.libpackageinfo
  jp.ashikase.libsymbolicate
@@ -204,6 +217,7 @@
  net.angelxwind.appsyncunified
  net.ispazio.applinks
  net.limneos.audiorecorder
+ net.limneos.callbar7
  net.tateu.calswitch
  openssh
  openssl
@@ -218,13 +232,16 @@
  pam
  pam-modules
  pcre
+ pincrush
  preferenceloader
  profile.d
  readline
  repo.biteyourapple.net.byarepoicons
+ repo.biteyourapple.net.lockhtml4
  repo.biteyourapple.net.protean
  repo.biteyourapple.net.sweetdisplay
  repo.biteyourapple.net.swipeexpander
+ repo.biteyourapple.net.wethr
  ru.firemoon777.statusmodifier
  sed
  shell-cmds
@@ -235,5 +252,6 @@
  top
  uikittools
  wget
+ winterboard
  ws.hbang.common
  ws.hbang.typestatus2

@@ -1,12 +1,12 @@
 deb http://apt.saurik.com/ ios/1240.10 main
 deb http://apt.modmyi.com/ stable main
-deb http://cydia.zodttd.com/repo/cydia/ stable main
+deb http://repo.biteyourapple.net/ ./
 deb http://tateu.net/repo/ ./
 deb http://cydia.iphonecake.com/ ./
-deb http://repo.biteyourapple.net/ ./
+deb http://cydia.zodttd.com/repo/cydia/ stable main
 deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb https://ib-soft.net/cydia/ ./
 deb http://rpetri.ch/repo/ ./
 deb http://repo.hackyouriphone.org/ ./
 deb http://repo.xarold.com/ ./
 deb http://justgetflux.com/cydia/ ./
-deb https://ib-soft.net/cydia/ ./
