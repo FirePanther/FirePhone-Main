@@ -128,7 +128,6 @@
  gsc.device-class-number
  gsc.device-supports-navigation
  gsc.device-supports-simplistic-road-mesh
- gsc.device-supports-tethering
  gsc.device-supports1080p
  gsc.device-supports3-d-imagery
  gsc.device-supports3-d-maps
