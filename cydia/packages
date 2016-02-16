@@ -117,6 +117,7 @@
  gsc.assistant
  gsc.auto-focus-camera
  gsc.battery-current-capacity
+ gsc.battery-is-charging
  gsc.bluetooth
  gsc.bluetooth-le
  gsc.board-id
@@ -139,6 +140,7 @@
  gsc.encode-aac
  gsc.encrypted-data-partition
  gsc.external-charge-capability
+ gsc.external-power-source-connected
  gsc.fcc-logos-via-software
  gsc.forward-camera-capability
  gsc.front-facing-camera
