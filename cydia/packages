@@ -236,6 +236,8 @@
  org.thebigboss.detailedbatteryusage
  org.thebigboss.dismissprogress
  org.thebigboss.libcolorpicker
+ org.thebigboss.recordntorch
+ org.thebigboss.recordpause
  org.thebigboss.repo.icons
  org.thebigboss.smoothcursor
  org.thebigboss.untetheredheysiri
