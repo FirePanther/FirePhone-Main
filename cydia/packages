@@ -52,6 +52,7 @@
  com.officialscheduler.mterminal
  com.pw5a29.speedintensifier
  com.repo.xarold.com.appcake2
+ com.repo.xarold.com.assistantplus
  com.repo.xarold.com.audiorecorder
  com.repo.xarold.com.flex2
  com.repo.xarold.com.grandlsip624h
@@ -129,7 +130,6 @@
  gsc.device-class-number
  gsc.device-supports-navigation
  gsc.device-supports-simplistic-road-mesh
- gsc.device-supports-tethering
  gsc.device-supports1080p
  gsc.device-supports3-d-imagery
  gsc.device-supports3-d-maps
