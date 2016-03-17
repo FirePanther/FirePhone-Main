@@ -1,4 +1,5 @@
  adv-cmds
+ am.theiostre.ios-caffeine
  applist
  apr
  apr-lib
@@ -233,6 +234,7 @@
  org.coolstar.classicfolders
  org.herf.flux
  org.rdharris.activatelink
+ org.thebigboss.actif
  org.thebigboss.detailedbatteryusage
  org.thebigboss.dismissprogress
  org.thebigboss.libcolorpicker
