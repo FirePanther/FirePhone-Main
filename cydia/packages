@@ -15,6 +15,7 @@
  com.a3tweaks.flipswitch
  com.aehmlo.orangemenot
  com.alexzielenski.zeppelin
+ com.autopear.installipa
  com.bd452.bypass
  com.bd452.libpass
  com.booleanmagic.displayrecorder
@@ -52,7 +53,9 @@
  com.naken.smsninja
  com.officialscheduler.mterminal
  com.pw5a29.speedintensifier
+ com.repo.xarold.com.appaddict
  com.repo.xarold.com.appcake2
+ com.repo.xarold.com.appsync70plus
  com.repo.xarold.com.assistantplus
  com.repo.xarold.com.audiorecorder
  com.repo.xarold.com.flex2
@@ -70,6 +73,7 @@
  com.repo.xarold.com.switchservice
  com.repo.xarold.com.upscale
  com.repo.xarold.com.veexillum
+ com.repo.xarold.com.vshare
  com.repo.xarold.com.wethr
  com.rpetrich.littlebrother
  com.rpetrich.rocketbootstrap
@@ -131,6 +135,7 @@
  gsc.device-class-number
  gsc.device-supports-navigation
  gsc.device-supports-simplistic-road-mesh
+ gsc.device-supports-tethering
  gsc.device-supports1080p
  gsc.device-supports3-d-imagery
  gsc.device-supports3-d-maps
@@ -256,6 +261,7 @@
  repo.biteyourapple.net.statushud
  repo.biteyourapple.net.sweetdisplay
  repo.biteyourapple.net.swipeexpander
+ repo.biteyourapple.net.vshare
  repo.biteyourapple.net.wethr
  ru.firemoon777.statusmodifier
  sed
